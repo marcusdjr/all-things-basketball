@@ -2,11 +2,14 @@ import snscrape.modules.twitter as sntwitter
 import pandas as pd
 import pandas as pd
 import matplotlib.pyplot as plt
-from wordcloud import WordCloud
+from wordcloud import WordCloud, STOPWORDS
+import sys, os
+os.chdir(sys.path[0])
+
 #twitter filter
 query = "(#Nbatrades)"
 tweets = []
-limit = 100
+limit = 5000
 
 #for loop for printing content
 for tweet in sntwitter.TwitterSearchScraper(query).get_items():
@@ -23,13 +26,20 @@ print(df)
 # save to csv file
 df.to_csv('tweets.csv')
 
-# df = pd.read_csv("tweets.csv")
+# Read text
+text = open('tweets.csv', mode='r', encoding='utf-8').read()
 
-# df.isna().sum()
+#STOPWORDS
+stopwords = ('stopwords.txt')
 
-# text = " ".join(cat.split()[1] for cat in df.category)
-# word_cloud = WordCloud(collocations = False, background_color = 'white').generate(text)
-# plt.imshow(word_cloud, interpolation='bilinear')
-# plt.axis("off")
-# plt.show()
+wc = WordCloud(
+    background_color='white',
+    stopwords=stopwords,
+    height = 600,
+    width= 400
+)
 
+wc.generate(text)
+
+#storing word cloud to file
+wc.to_file('wordcloud_output.png')
