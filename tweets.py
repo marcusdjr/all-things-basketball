@@ -9,10 +9,10 @@ os.chdir(sys.path[0])
 #twitter filter
 query = "(#Nbatrades)"
 tweets = []
-limit = 5000
+limit = 3000
 
 #for loop for printing content
-for tweet in sntwitter.TwitterSearchScraper(query).get_items():
+for tweet in sntwitter.TwitterHashtagScraper(query).get_items():
     
     if len(tweets) == limit:
         break
