@@ -1,5 +1,5 @@
 # all-things-basketball 
 
-# Two friends creating nab trade trackers and structuring data in real time
+# Two friends creating NBA trade trackers and structuring data in real time
 
     
