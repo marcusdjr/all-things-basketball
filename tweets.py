@@ -14,7 +14,7 @@ os.chdir(sys.path[0])
 query = "(#Sources, OR #NBA) (from:NbaTradeReport)"
 tweets = ["Trade","Trades","trade","trades","Blockbuster Trade","blockbuster trade","Blockbuster trade","blockbuster Trade",
           "Trading","Deal","Free Agent", "FA", "Sign", "Signing","sign", "Signing"]
-limit = 3000
+limit = 100
 
 
 #for loop for printing content
