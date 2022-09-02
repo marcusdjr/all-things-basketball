@@ -3,7 +3,6 @@ import snscrape.modules.twitter as sntwitter
 from PIL import Image
 import numpy as np
 import pandas as pd
-import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import sys, os
@@ -11,7 +10,7 @@ from os import path
 os.chdir(sys.path[0])
 
 #twitter filter
-query = "(#Nbatrades)"
+query = "(#Sources, OR #NBA) (from:NbaTradeReport)"
 tweets = ["Trade","Trades","trade","trades","Blockbuster Trade","blockbuster trade","Blockbuster trade","blockbuster Trade",
           "Trading","Deal","Free Agent", "FA", "Sign", "Signing","sign", "Signing"]
 limit = 3000
