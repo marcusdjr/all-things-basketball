@@ -1,0 +1,8 @@
+#Python latest release is recommended
+pip install snscrape
+
+pip install pandas
+
+pip install wordcloud
+
+pip install matplotlib
