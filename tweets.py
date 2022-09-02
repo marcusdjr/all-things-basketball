@@ -48,17 +48,7 @@ wc.generate(text)
 
 #Adding color to the image based off images original color
 image_colors = ImageColorGenerator(nba_logo)
-
-# show
-fig, axes = plt.subplots(1, 3)
-axes[0].imshow(wc, interpolation="bilinear")
-# recolor wordcloud and show
-# we could also give color_func=image_colors directly in the constructor
-axes[1].imshow(wc.recolor(color_func=image_colors), interpolation="bilinear")
-axes[2].imshow(nba_logo, cmap=plt.cm.gray, interpolation="bilinear")
-for ax in axes:
-    ax.set_axis_off()
-plt.show()
+wc.recolor(color_func=image_colors)
 
 #storing word cloud to file
 wc.to_file('wordcloud_output.png')
