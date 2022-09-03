@@ -1,4 +1,5 @@
 from operator import contains
+from pickle import STOP
 import snscrape.modules.twitter as sntwitter
 from PIL import Image
 import numpy as np
@@ -40,7 +41,7 @@ stopwords.add("NBA")
 
 
 wc = WordCloud(background_color="white", max_words=2000, mask=nba_logo,
-               stopwords=stopwords, max_font_size=40, random_state=42, repeat= False)
+    stopwords=stopwords, max_font_size=40, random_state=42, repeat= False)
 
 
 wc.generate(text)
