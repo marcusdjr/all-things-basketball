@@ -1,1040 +1,115 @@
 ,Tweet
-0,Trade
-1,Trades
-2,trade
-3,trades
-4,Blockbuster Trade
-5,blockbuster trade
-6,Blockbuster trade
-7,blockbuster Trade
-8,Trading
-9,Deal
-10,Free Agent
-11,FA
-12,Sign
-13,Signing
-14,sign
-15,Signing
-16,['#Sources — Charlotte Hornets have reached out to multiple teams in an effort to improve roster. Many in LaMelo’s camp are unhappy with the direction of the franchise and the surrounding pieces around Ball. #NBA']
-17,['#Sources — Phoenix in “hot pursuit” for Jazz F Bojan Bogdanovic. #NBA']
-18,['Danilo Gallinari has been diagnosed with a torn ACL in his left knee. The same ACL that Gallinari tore in 2013. #NBA']
-19,['#Sources — Cleveland Cavaliers have acquired Donovan Mitchell in a trade. #NBA']
-20,['#Sources - Knicks F Cam Reddish wants out of New York. Reddish who has been mentioned in trade rumors with the Lakers is looking for a larger role with a team. #NBA']
-21,['RJ Barrett’s contract extension with the Knicks is for 4yr/$107m with incentives that could take the deal up to $120 million. #NBA']
-22,['#Sources — Knicks and Jazz making progress on framework of deal that does not include RJ Barrett. Headlined by Quentin Grimes + Obi Toppin. #NBA']
-23,['#Sources — Markieff Morris has agreed to a one-year deal with the Brooklyn Nets. #NBA']
-24,['#Sources — New York Knicks guard RJ Barrett is finalizing a four-year rookie extension that could be worth up to $120 million. #NBA']
-25,['#Sources — Knicks are currently the only suitor in the Donovan Mitchell trade talks. Teams have realized they do not have the assets needed to make a competitive offer that surpasses what New York can offer. #NBA']
-26,['#Sources — Utah Jazz are trading Patrick Beverley to the Lakers for Talen Horton-Tucker. #NBA']
-27,['#Sources — Lakers interested in JOINING potential trade between Utah and New York as a 3rd team. LA willing to move first round picks for much needed roster depth. Something to keep an eye on as training camp quickly approaches. #NBA']
-28,['#Sources — Kevin Durant will remain with the Brooklyn Nets for at-least this upcoming season along with Kyrie Irving. #NBA']
-29,"['#Sources — Lakers &amp; LeBron James have agreed on a two-year, $97.1 million contract extension – including a player option for the 2024-2025 season. #NBA']"
-30,['#Sources — Knicks &amp; Jazz have re-engaged in trade talks centered around All-Star Donovan Mitchell. Utah reached out first with the hopes of getting a deal done before training camp begins in September. #NBA']
-31,['#Sources — NBA’s Christmas Day matchups for this upcoming season: #NBA \n\nBucks at Celtics\n76ers at Knicks\nSuns at Nuggets\nLakers at Mavericks\nGrizzlies at Warriors']
-32,"['#Sources — NBA’s 2022-23 opening night and ring ceremony on TNT will feature Lakers at Warriors, Oct. 18. #NBA']"
-33,['#Sources — Miami Heat have been reaching out to teams to gauge the market for G Duncan Robinson. Miami looking for “any positive return.”Robinson has 4yr/$74.3m left on current deal. #NBA']
-34,['#Sources — Brooklyn Nets would consider moving on from head coach Steve Nash to appease superstar Kevin Durant. Sean Marks role as GM is secure. #NBA']
-35,['#Sources — Toronto Raptors viewed as biggest threat to acquire Brooklyn superstar Kevin Durant followed by the Boston Celtics. #NBA']
-36,['#Sources — Lebron James expected to sign a 1 + 1 contract extension with the Lakers before the season starts. #NBA']
-37,['#Sources — Lakers have tried to engage the Utah Jazz in a Russell Westbrook trade. Lakers are looking to acquire Mike Conley + Bojan Bogdanovic. Utah has no interest unless multiple draft picks are included. #NBA']
-38,['#Sources — NBA has begun an investigation into the New York Knicks for alleged tampering regarding free agent pickup Jalen Brunson. #NBA']
-39,['#Sources — Eric Paschall has agreed to a one-year deal with Minnesota. #NBA']
-40,['#Sources — Miami Heat planning to pivot from Kevin Durant/Donovan Mitchell trade pursuits and focus attention on acquiring Atlanta’s PF John Collins. #NBA']
-41,['#Sources — Juancho Hernangomez is finalizing a one-year deal with the Toronto Raptors. Bo Cruz goes north. #NBA']
-42,['#Sources — Raptors have emerged as a serious threat to acquire Utah’s Donovan Mitchell. Teams have started discussing parameters of a trade. #NBA']
-43,"['#Sources — Jazz, Knicks and Pacers have expressed interest in acquiring Russell Westbrook and draft capital from the Lakers. #NBA']"
-44,"['#Sources — Celtics offered Jaylen Brown, Derrick White, 1st round pick for Kevin Durant. Brooklyn countered with asking for Marcus Smart + additional draft compensation on top of original offer. #NBA']"
-45,"['#Sources — Carmelo Anthony is in “wait-and-see” mode in deciding his next team. Lakers have shown interest but Carmelo has been keeping tabs on New York &amp; the Knicks. If Donovan Mitchell ends up in NY, expect a Carmelo reunion to follow. #NBA']"
-46,['#Sources — Knicks &amp; Jazz have made “significant progress” over the last 24 hours in Donovan Mitchell trade talks but nothing has been AGREED upon yet. Both sides expect to come to an agreement within next few days as Utah understands Knicks have best package(s) available. #NBA']
-47,['#Sources — Hornets Restricted Free Agent Miles Bridges formally charged with felony domestic violence &amp; child abuse. #NBA']
-48,['#Sources — Many executives around the league believe there are too many hurdles for Miami to jump to acquire Kevin Durant from Brooklyn. Heat will continue to piece together a package but expectation league wide is Durant will start the season with the Nets. #NBA']
-49,['#Sources — Charlotte &amp; Indiana are discussing trade that would send Myles Turner + Buddy Hield to to Charlotte with Gordon Hayward + P.J. Washington heading to the Pacers. #NBA']
-50,['#Sources — Lakers have reached out to Charlotte on a Westbrook for Hayward + Rozier swap. Charlotte is asking for a Lakers future first round pick included. Both sides continue to have discussions. #NBA']
-51,['Keegan Murray Named 2022 NBA Summer League MVP. #NBA']
-52,['#Sources — Jazz put Knicks trade talks on hold while searching for “better offers elsewhere.” #NBA']
-53,['#Sources — Lakers have shown interest in Utah’s Jordan Clarkson. Los Angeles willing to include Talen Horton-Tucker in discussions. #NBA']
-54,['#Sources — Miami needs third team involved to make competitive enough offer for Utah’s Donovan Mitchell. #NBA']
-55,"['#Sources — RFA Deandre Ayton has agreed to a four-year, $133M maximum offer sheet with the Indiana Pacers. Phoenix has 48 hours to match. #NBA']"
-56,['#Sources — Jazz &amp; Knicks have held tarde discussions centered around Donovan Mitchell. Utah is looking to Acquire SG Quentin Grimes &amp; atleast FOUR 1st round picks. #NBA']
-57,['#Sources — Dallas has inquired on Utah’s Jordan Clarkson. Nothing imminent. #NBA']
-58,"['#Sources — With limited draft capital, members of Heat front office believe team will start season as currently constructed. #NBA']"
-59,"['New York is in a unique position with the collection of picks they’ve acquired as they can bypass the NBA’s Stepien Rule and trade consecutive first round picks. Knicks can offer teams 4 consecutive picks in ‘23, ‘24, ‘25, ‘26. #NBA https://t.co/aCvfvqCxj0']"
-60,['#Sources — NBA Board of Governors has approved the Transition Take Foul rule that will award the offensive team with one free throw and retaining possession starting this upcoming 2022-23 season. #NBA']
-61,['#Sources — Utah Jazz are now open to hearing offers for All-Star guard Donovan Mitchell. #NBA']
-62,['#Knicks roster as is:\n\nPG: Brunson / Rose / McBride \nSG: Fournier / Quickley / Grimes \nSF: Barrett / Reddish\nPF: Randle / Toppin\nC:   Robinson / Hartenstein / Sims\n\nIs this a playoff team in the East? #NBA']
-63,['Jalen Brunson to New York signing is official. Brunson will wear former Knicks’ legend Frank Ntilikina #11. #NBA']
-64,['#Sources — Many in Heat organization believe Brooklyn will not trade Kevin Durant. Prefer to turn attention to Donovan Mitchell. #NBA']
-65,['#Sources — Pacers expected to give Phoenix RFA Deandre Ayton an offer sheet as soon as tomorrow. #NBA']
-66,['#Sources — Utah and Cleveland are in sign-and-trade discussions that would send Collin Sexton out west to the Jazz. #NBA']
-67,['#Sources — Collin Sexton expected to return to Cleveland on 1 year qualifying offer. Unrestricted free agent in 2023. #NBA']
-68,['#Sources — Taj Gibson waived by New York. Plans to sign with Washington. #NBA']
-69,['#Sources — Damian Lillard has signed a two-year $122 million extension with the Portland Trail Blazers. #NBA']
-70,['#Sources — James Harden’s new contract with Philadelphia will be for 2yr/$67m. #NBA']
-71,['#Sources — Knicks continue to field calls on PG Derrick Rose. Belief is Rose will be traded by the start of training camps. #NBA']
-72,['#Sources — Some inside Nets front office would prefer to let Kyrie Irving sit the season than trade for “scraps.” #NBA']
-73,['#Sources — Knicks and two-way center Jericho Sims have agreed on a new three-year NBA contract. #NBA']
-74,['#Sources — Hornets have reached out to Atlanta on the availability of PF John Collins. #NBA']
-75,['#Sources — Charlotte has been in contact with teams in hopes of filling the void left by Miles Bridges. #NBA']
-76,"['#Sources — Caleb Martin has agreed to a three-year, $20-plus million deal to return to the Miami Heat. #NBA']"
-77,['#Sources — Lakers will look to add Eric Bledsoe. #NBA']
-78,['#Sources — Portland Trail Blazers plan to waive guard Eric Bledsoe ahead of his guarantee date. #NBA']
-79,"['#Sources — DeMarcus Cousins prefers signing with the Lakers, if promised starting Center job. #NBA']"
-80,['#Sources — Thomas Bryant has reached an agreement with the Los Angeles Lakers on a one-year deal. #NBA']
-81,['#Sources — Knicks are expected to be penalized for tampering regarding their agreement with Jalen Brunson. Could result in the loss of multiple 2nd round picks. #NBA']
-82,['#Sources — Serge Ibaka has agreed to a one-year deal to return to the Milwaukee Bucks. #NBA']
-83,['#Sources — Lakers have “touched base” with Miles Bridges. #NBA']
-84,['#Sources — Goran Dragic has agreed to a deal with the Chicago Bulls. #NBA']
-85,"['#Sources — Cleveland Cavaliers and All-Star guard Darius Garland have agreed on a five-year, $193M maximum designated rookie contract extension that could be worth as much as $231M. #NBA']"
-86,['#Sources — Miami Heat will make a push for both Kevin Durant &amp; Donovan Mitchell. #NBA']
-87,['#Sources — Utah is trading Rudy Gobert to Minnesota. #NBA']
-88,"['#Sources — Kevon Looney has agreed to a three-year, $25.5M deal to return to Golden State. #NBA']"
-89,"['#Sources — Derrick Jones Jr. has agreed to a two-year, $6.6 million deal to return to the Chicago Bulls. Player option for second season. #NBA']"
-90,"['#Sources — Indiana Pacers are trading guard Malcolm Brogdon to the Boston Celtics. Boston is sending Daniel Theis, Aaron Nesmith and a 2023 first-round pick. #NBA']"
-91,['#Sources — John Wall officially agrees with the Clippers on a two-year deal for the taxpayer midlevel. #NBA']
-92,['#Sources — Minnesota &amp; Utah in trade talks centered around Rudy Gobert. #NBA']
-93,"['#Sources — Jusuf Nurkic has agreed on a new four-year, $70 million deal to stay with the Portland Trail Blazers. #NBA']"
-94,"['#Sources — Zach LaVine has agreed to a five-year, $215.2 million maximum contract to return to the Chicago Bulls. Player option in year 5. #NBA']"
-95,['#Sources — Danilo Gallinari plans to sign with the Boston Celtics once clearing waivers. #NBA']
-96,['#Sources — Theo Pinson is returning to the Dallas Mavericks on a one-year deal. #NBA']
-97,"['#Sources — Mitchell Robinson has agreed on a new four-year, $60 million contract to stay with the New York Knicks. #NBA']"
-98,"['#Sources — Bruce Brown has agreed to a 2-year, $13M+ deal with the Denver Nuggets. #NBA']"
-99,['#Sources — Ricky Rubio is nearing a deal on a return to the Cleveland Cavaliers. #NBA']
-<<<<<<< HEAD
-100,['#Sources — Zion Williamson is nearing a five-year rookie max contract extension worth up to $231 million. #NBA']
-101,"['#Sources — Gary Payton II is finalizing a three-year, $28 million deal with the Portland Trail Blazers. #NBA']"
-102,"['#Sources — Memphis Grizzlies and Ja Morant agree on a five-year, $193M designated rookie maximum extension that could become worth $231M. #NBA']"
-103,['#Sources — Nikola Jokic contract details: 5 year / $270M. Largest deal in NBA history. #NBA']
-104,"['#Sources — Phoenix Suns and Devin Booker agree on a four-year, $224M super max extension. #NBA']"
-105,"['#Sources — Minnesota Timberwolves and Karl-Anthony Towns agreed on a four-year, $224M super max extension. #NBA']"
-106,['#Sources — Jalen Brunson’s $104 million deal with the Knicks expected to descend annually. Starting slightly above $28m in year one and ending just below $24m in year four (25-26). #NBA']
-107,['#Sources — Andre Drummond is finalizing a deal with the Chicago Bulls. #NBA']
-108,"['#Sources — Brooklyn Nets want ""at least two All-Stars"" in exchange for Kevin Durant. #NBA']"
-109,"['#Sources — Kyle Anderson has agreed to a two-year, $18M deal to join the Timberwolves. #NBA']"
-110,"['#Sources — Delon Wright has agreed to a two-year, $16 million deal to sign with the Washington Wizards. #NBA']"
-111,"['#Sources — Orlando Magic and Guard Gary Harris have agreed on a two-year, $26 million contract extension. #NBA']"
-112,"['#Sources — Kevin Knox has agreed to a two-year, $6 million deal with the Detroit Pistons. #NBA']"
-113,['#Sources — Anthony Gill is signing a two year-deal with the Washington Wizards. #NBA']
-114,['#Sources — JaVale McGee has reached an agreement with the Dallas Mavericks. #NBA']
-115,['#Sources — Juan Tuscano-Anderson has reached an agreement with the Los Angeles Lakers. #NBA']
-116,['#Sources — 76ers &amp; James Harden will take the weekend to work out a new deal. #NBA']
-117,"['#Sources — Nic Claxton has agreed on a two-year, $20 million deal to return to the Brooklyn Nets. #NBA']"
-118,['#Sources — Miami Heat will offer Udonis Haslem a 1-year deal to return for his 20th season. #NBA']
-119,['#Sources — Troy Brown Jr. has agreed to a minimum deal with the Los Angeles Lakers. #NBA']
-120,"['#Sources — Lonnie Walker IV has agreed to a deal with the Los Angeles Lakers. 1 year, $6.5m. #NBA']"
-121,"[""#Sources — Jae'Sean Tate has agreed to a three-year, $22.1 million deal to return to Houston. #NBA""]"
-122,"['#Sources -- Patty Mills has agreed to return to the Brooklyn Nets on a two-year, $14.5M deal. #NBA']"
-123,"['#Sources — Marvin Bagley III has reached an agreement with the Detroit Pistons on a three-year, $37 million deal. #NBA']"
-124,"['#Sources — Thaddeus Young has reached an agreement with the Toronto Raptors on a two-year, $16 million deal. #NBA']"
-125,['#Sources — Miami Heat have made a trade offer to the Utah Jazz for Donovan Mitchell. #NBA']
-126,"['#Sources — Dewayne Dedmon has agreed to a two-year, $9 million deal to return to the Miami Heat. #NBA']"
-127,['#Sources — Davon Reed has agreed to a two-year deal to return to the Denver Nuggets. #NBA']
-128,['#Sources — Guard Trevelin Queen has agreed to a deal with the Philadelphia 76ers. #NBA']
-129,"['#Sources — Lu Dort has agreed to a five-year, $87.5M deal to stay with the Oklahoma City Thunder. #NBA']"
-130,"['#Sources — Chris Boucher is returning to the Toronto Raptors on a three-year, $35.25M deal. #NBA']"
-131,"['#Sources — Amir Coffey has agreed to a three-year, $11M deal with the Clippers. #NBA']"
-132,['#Sources — Damian Jones has agreed to a two-year deal with the Los Angeles Lakers. #NBA']
-133,['#Sources — Jevon Carter has agreed to a two-year deal to return to the Milwaukee Bucks. #NBA']
-134,['#NBA https://t.co/pnNzVU9SBp']
-135,"['#Sources — Nicolas Batum, Clippers Agree To Two-Year, $22M Deal. #NBA']"
-136,['#Sources — Wes Matthews has agreed to a one-year deal to return to the Milwaukee Bucks. #NBA']
-137,['#Sources — Joe Ingles has reached an agreement with the Milwaukee Bucks. #NBA']
-138,"['#Sources — Tyus Jones is returning to the Memphis Grizzlies on a two-year, $30M deal. #NBA']"
-139,"['#Sources — Danuel House has agreed to a two-year, $8.5M deal with the 76ers. #NBA']"
-140,"['#Sources — Free agent guard Jalen Brunson intends to agree to terms with the New York Knicks on a four-year, $104 million deal. #NBA']"
-141,"['#Sources — Bradley Beal has agreed to a five-year, $251 million maximum contract to stay with the Washington Wizards. #NBA']"
-142,"['#Sources — Portland Trail Blazers guard Anfernee Simons has agreed on a four-year, $100 million contract extension. #NBA']"
-143,"['#Sources — Bobby Portis is returning to the Milwaukee Bucks on a 4-year, $49M contract. #NBA']"
-144,"['#Sources — PJ Tucker is finalizing a three-year, $33.2 million fully guaranteed deal with the Philadelphia 76ers. #NBA']"
-145,"['#Sources — Victor Oladipo has agreed to a one-year, $11 million deal to return to the Miami Heat. #NBA']"
-146,['#Sources — DeAndre Jordan has agreed to a deal with the Denver Nuggets. #NBA']
-147,"['#Sources — Phoenix Suns and Devin Booker are finalizing a four-year, $214 million supermax contract extension. #NBA']"
-148,"['#Sources — Free agent center Isaiah Hartenstein has agreed to a two-year, $16 million-plus deal with the New York Knicks. #NBA']"
-149,['#Sources — Malik Monk is finalizing a deal with the Sacramento Kings. #NBA']
-150,"['#Sources — Two-time NBA MVP Nikola Jokic has agreed to a five-year, $264 million supermax contract extension with the Denver Nuggets. #NBA']"
-151,"['#Sources — Jalen Brunson is expected to sign a 4-year, $110M deal with the New York Knicks once free agency opens. #NBA']"
-152,['#Sources — Dallas sees Kyrie Irving as “realistic get” and will pursue the Brooklyn Nets PG via trade. #NBA']
-153,['#Sources — Denver Nuggets considering going “all in” for Kevin Durant. #NBA']
-154,['#Sources — 76ers seen as dark horse team to acquire Brooklyn’s Kevin Durant. #NBA']
-155,['#Sources — Kevin Durant has listed Phoenix as his preferred destination. #NBA']
-156,['#Sources — Utah has traded Royce O’Neale to Brooklyn for a future first round pick. #NBA']
-157,['#Sources — Kevin Durant has officially requested a trade out of Brooklyn. #NBA']
-158,['#Sources — New Orleans and Minnesota continue to have discussions centered around PG D’Angelo Russell. Nothing imminent as of yet. #NBA']
-159,"['#Sources — Philadelphia discussing trade that would send Tobias Harris &amp; Matisse Thybulle to Utah in exchange for Bojan Bogdanovic, Royce O’Neale + fillers. #NBA']"
-160,['#Sources — Timberwolves PG D’Angelo Russell believes his days in Minnesota are over. #NBA']
-161,['#Sources — Brooklyn Nets are listening to offers for G/F Joe Harris. #NBA']
-162,['#Sources — Hawks &amp; Timberwolves emerge as favorites to sign Phoenix C Deandre Ayton. #NBA']
-163,['#Sources — Dallas would have interest in Knicks G/F Evan Fournier if sign-and-trade option presents itself for Jalen Brunson. #NBA']
-164,['#Sources — Miami &amp; Atlanta continue to have trade talks centered around PF John Collins. #NBA']
-165,['#Sources — Miles Bridges arrested for felony domestic violence in Los Angeles on Wednesday. #NBA']
-166,"['#Sources — Spurs are trading Dejounte Murray to Atlanta for Danilo Gallinari, three first-round draft picks and a draft swap. #NBA']"
-167,['#Sources — Rockets looking to trade veteran G Eric Gordon. Team has interest in Cleveland PG Colin Sexton. #NBA']
-168,['#Sources — Knicks continue to keep tabs on Deandre Ayton situation in Phoenix. #NBA']
-169,['#Sources — Washington &amp; Victor Oladipo have “mutual interest.” #NBA']
-170,['#Sources — Denver and Washington are near completion of trade that would send Will Barton and Monte Morris to Washington for Kentavious Caldwell-Pope and Ish Smith. #NBA']
-171,['#Sources — New Orleans has inquired on Spurs PG Dejounte Murray. #NBA']
-172,['#Sources — The Knicks are trading center Nerlens Noel and guard Alec Burks to the Pistons. #NBA']
-173,['#Sources — Knicks &amp; Spurs discussed possible Dejounte Murray trade today. Julius Randle was not part of discussions. San Antonio looking for an exuberant amount of FIRST round picks. #NBA']
-174,"['#Sources — L os Angeles Clippers and center Ivica Zubac have agreed on a three-year, $33 million extension. #NBA']"
-175,['#Sources — Milwaukee drawing interest in Knicks PG Derrick Rose. #NBA']
-176,['#Sources — The Utah Jazz have hired David Fizdale as associate general manager.\xa0#NBA']
-177,['#Sources — Boston Celtics assistant Will Hardy is closing in on deal to become the next head coach of the Utah Jazz. #NBA']
-178,"['#Sources — Knicks have held conversations with teams, gauging value on Julius Randle. Nothing imminent. #NBA']"
-179,['#Sources — PJ Tucker plans on signing with Philadelphia once free agency opens. #NBA']
-180,['#Sources — Los Angeles Lakers star Russell Westbrook is exercising his $47 million player option for the 2022-23 season. #NBA']
-181,['#Sources — San Antonio Spurs are now seeking four 1st round picks in a trade for Dejounte Murray. #NBA']
-182,['#Sources — Clippers have shown interest in Knicks C Nerlens Noel. #NBA']
-183,['#Sources — John Wall will secure a buyout with the Houston Rockets and become an unrestricted free agent. Clippers are favorites to sign the former all-star PG. #NBA']
-184,['#Sources — Kyrie Irving will opt into his contract for next season and fulfill his commitment to play out the season. #NBA']
-185,['#Sources — Bradley Beal expects Wizards to improve upon roster once new contract is signed. #NBA']
-186,"['#Sources — Hawks &amp; Spurs near completion of trade that would send Dejounte Murray to Atlanta, Gallinari + picks to San Antonio. #NBA']"
-187,"['#Sources — Charlotte Hornets have made Gordon Hayward, Terry Rozier, &amp; Kelly Oubre Jr. available for trade. #NBA']"
-188,['#Sources — Boston &amp; New York continue to have trade discussions centered around Knicks G/F Alec Burks. #NBA']
-189,['#Sources — Brooklyn will not trade Kyrie Irving unless return package is “fair &amp; reasonable” #NBA']
-190,['#Sources — Dallas Mavericks “extremely confident” deal with Jalen Brunson will get done once free agency opens. #NBA']
-191,"['#Sources — Bradley Beal expected to decline player option and sign 5 year, $248m contract with Washington. #NBA']"
-192,['#Sources — Knicks main focus is Jalen Brunson. Trade for Dejounte Murray secondary. #NBA']
-193,['#Sources:  Oklahoma City selects Peyton Watson at No.30. #NBA']
-194,['#Sources: Houston selects TyTy Washington at No.29. #NBA']
-195,['#Sources: Golden state selects Patrick Baldwin Jr. at No.28. #NBA']
-196,['#Sources: Miami selects Nikola Jovic at No.27. #NBA']
-197,['#Sources: Houston selects Wendell Moore at No.26. #NBA']
-198,['#Sources — Knicks receive the following picks from Oklahoma City. \n\n- 2023 protected 1st rounder via Detroit\n- 2023 protected 1st rounder via Washington\n- 2023 protected 1st rounder via Denver\n\n#NBA']
-199,['#Sources: San Antonio selects Blake Wesley at No.25. #NBA']
-200,['#Sources: Milwaukee selects Marjon Beauchamp at No.24. #NBA']
-201,"[""#Sources — Philadelphia traded Danny Green and No. 23 to Memphis as part of trade to acquire De'Anthony Melton. #NBA""]"
-202,['#Sources — Philadelphia is trading the No. 23 pick to Memphis for DeAnthony Melton. #NBA']
-203,['#Sources: Minnesota selects Walker Kessler at No.22. #NBA']
-204,['#Sources: Denver selects Christian Braun at No. 21. #NBA']
-205,['#Sources: San Antonio selects Malaki Brahman at No. 20. #NBA']
-206,['#Sources: Minnesota selects Jake Laravia at No. 19. and trade him to Memphis. #NBA']
-207,['#Sources: Chicago selects Dalen Terry at No. 18. #NBA']
-208,"['#Sources — New York, Charlotte, and Detroit complete three team trade. #NBA']"
-209,['#Sources — Kemba Walker and the Pistons are expected to discuss a contract buyout that will allow him to become a free agent. #NBA']
-210,['#Sources: Houston selects Tari Eason  at No. 17. #NBA']
-211,['#Sources: Atlanta selects AJ Griffin at No. 16. #NBA']
-212,['#Sources — Knicks trade Kemba Walker to Detroit. #NBA']
-213,['#Sources: Charlotte selects Mark Williams at No. 15. #NBA']
-214,['#Sources: Cleveland selects Ochai Agbaji at No. 14. #NBA']
-215,['#Sources — Pistons are acquiring Jalen Duren at No. 13 in a trade. #NBA']
-216,['#Sources: Charlotte selects Jalen Duran at No. 13. #NBA']
-217,['#Sources: Oklahoma City selects Jalen Williams at No. 12. #NBA']
-218,['#Sources — Knicks moving Ousmane Dieng to OKC. #NBA']
-219,['#Sources: New York selects Ousmane Dieng at No. 11. #NBA']
-220,['#Sources: Washington selects Johnny Davis at No. 10. #NBA']
-221,['#Sources: San Antonio selects Jeremy Sochan at No. 9. #NBA']
-222,['#Sources: New Orleans selects Dyson Daniels at No. 8. #NBA']
-223,['#Sources: Portland selects Shaedon Sharpe at No. 7. #NBA']
-224,['#Sources — Knicks &amp; Pistons still discussing trade that would involve swapping picks. #NBA']
-225,['#Sources: Indiana selects Bennedict Mathurin at No. 6. #NBA']
-226,['#Sources: Detroit selects Jaden Ivey at No. 5. #NBA']
-227,['#Sources: Sacramento selects Keegan Murray at No. 4. #NBA']
-228,['Sources: Houston selects Jabari Smith Jr. at No. 3. #NBA']
-229,['#Sources — Oklahoma City selects Chet Holmgren at No. 2. #NBA']
-230,['#Sources — Orlando selects Paolo Banchero at No. 1 in the NBA Draft. #NBA']
-231,['#Sources — Kyrie Irving expected to opt-in to contract and request trade. #NBA']
-232,"['#Sources — Magic considering Banchero at 1, Thunder considering Ivey at 2. Draft boards “blowing up.” #NBA']"
-233,['#Sources — Sixers working on three team deal with Houston and Portland that would send the veteran Gordon to Philly &amp; Matisse Thybulle to Portland. #NBA']
-234,"['#Sources — Sacramento has final offers from New York, Indiana &amp; Oklahoma City for pick No. 4. Sacramento will wait until they’re on the clock to make a decision to trade or keep the pick. #NBA']"
-235,['#Sources — Lakers have offered Washington Russell Westbrook for Kristaps Porzingis and Kentavious Caldwell-Pope. Wizards declined. #NBA']
-236,['#Sources — Washington has offered Kyle Kuzma &amp; Kentavious Caldwell-Pope in exchange for D’Angelo Russell. #NBA']
-237,"['#Sources — Kyrie Irving’s wish list if he is traded from Brooklyn includes Lakers, Clippers, Knicks, Heat, Mavs and 76ers. #NBA']"
-238,['#Sources — Kevin Durant is monitoring the Brooklyn Nets’ situation and considering options with his future.\n\nThis now opens the path for Kyrie Irving to proceed on finding a new home via opt-in and trade. #NBA']
-239,['#Sources — Boston is trying to engage Knicks in trade for Alec Burks using Evan Fournier trade exception. New York asking for 2023 unprotected first round pick. Boston declined and working on counter offer. #NBA']
-240,"['#Sources — Hawks trying to engage Washington in a sign-and-trade for Bradley Beal. Atlanta would send back John Collins, De’Andre Hunter, Kevin Huerter and two first round picks. #NBA']"
-241,['#Sources — Deandre Ayton considered “lock” to sign with Detroit this off-season. #NBA']
-242,['#Sources — Celtics interested in using Evan Fournier trade exception on Clippers G/F Luke Kennard. #NBA']
-243,"[""#Sources — The Los Angeles Lakers acquired Orlando's pick at No. 35 for a future second-round pick and cash. #NBA""]"
-244,['#Sources — Kings leaning towards staying at pick 4 and selecting Keegan Murray. #NBA']
-245,['#Sources — Kyrie Irving leaning towards opting into player option for this upcoming season and becoming an unrestricted free agent next summer. #NBA']
-246,['#Sources — Knicks have reached out to San Antonio on the availability of PG Dejounte Murray. Nothing is imminent. #NBA']
-247,['#Sources — Hawks and Spurs have discussed a trade centered around John Collins and Dejounte Murray. #NBA']
-248,['#Sources — Portland Trail Blazers are in pursuit of Toronto Raptors forward OG Anunoby with the No. 7 pick in Thursday’s draft in play. #NBA']
-249,['#Sources — Detroit will look into extending offer sheets to BOTH RFA Deandre Ayton &amp; Miles Bridges. #NBA']
-250,['#Sources — Detroit has traded Jerami Grant to Portland for 2025 first-round pick via Milwaukee. #NBA']
-251,['#Sources — Knicks have been unwilling to include the No. 11 pick in a trade for Malcolm Brogdon. #NBA']
-252,['#Sources — Many believe OKC Thunder will trade up with Sacramento for pick 4. Thunder could potentially have picks 2 &amp; 4 in tomorrow’s NBA draft. #NBA']
-253,"['#Sources — Portland is strongly considering New York’s offer of Alec Burks, Nerlens Noel &amp; pick 11 for the 7th overall pick in tomorrows NBA draft. #NBA']"
-254,['#Sources — Bradley Beal is declining his $36.4M player option and will become an unrestricted free agent. #NBA']
-255,['#Sources — Knicks G Alec Burks drawing interest from Boston &amp; Detroit. #NBA']
-256,['#Sources — Kendrick Nunn has elected to opt in for his contract with the Lakers for next season. #NBA']
-257,['John Wall has officially exercised his $47.4M player option for the 2022-23 season. #NBA']
-258,['#Sources — The Hawks are expected to waive Danilo Gallinari to reduce their payroll by $16M. #NBA']
-259,"['#Sources — Thunder Trying To Move Up From No. 12 With Jaden Ivey, Shaedon Sharpe Targeted. #NBA']"
-260,['#Sources — Knicks &amp; Center Mitchell Robinson are working on a new multi-year extension. #NBA']
-261,['#Sources — Charlotte Hornets have “real” trade interest in Russell Westbrook as they look to free up some money to retain Miles Bridges. #NBA']
-262,['#Sources — Knicks have offered MULTIPLE first round picks to Sacramento in exchange for the 4th overall pick in Thursday’s NBA draft. #NBA']
-263,['#Sources — San Antonio Spurs considered “dark horse” for RFA Miles Bridges. #NBA']
-264,['#Sources — Mike D’Antoni is set to meet with Charlotte Hornets owner Michael Jordan on the franchise’s coaching job today. #NBA']
-265,"['#Sources — Suns could trade Cameron Johnson to the Pelicans for the No. 8 overall pick, clearing the way for Phoenix to offer Deandre Ayton more money. #NBA']"
-266,['#Sources — Knicks expected to trade Nerlens Noel &amp; Alec Burks for minimal return. #NBA']
-267,['#Sources — Miami’s PJ Tucker will opt out of his $7.4 million player option for the 2022-23 season and enter free agency. #NBA']
-268,['#Sources — Kyrie Irving is “fully confident” in an extension with the Brooklyn Nets. #NBA']
-269,['#Sources — Teams expect Miles Bridges to command a near maximum deal in free agency this season.\n\nThe Hornets would be hesitant to match any near-max offer sheet Bridges signs. #NBA']
-270,['#Sources — Knicks have received “multiple calls” on F Obi Toppin. New York reluctant to move on from the lottery pick unless it’s for “something significant.” #NBA']
-271,['#Sources — Dennis Schroder &amp; Lakers have “mutual interest”. #NBA']
-272,"['#Sources — Kings have had internal discussions on the possibility of staying at pick 4 and selecting Jaden Ivey, while listening to offers for PG De’Aaron Fox. #NBA']"
-273,['#Sources — Dallas Mavericks still interested in Myles Turner &amp; Mitchell Robinson. #NBA']
-274,['#Sources — The Pacers have been discussing trades around Malcolm Brogdon. The Wizards and Knicks are interested in Brogdon with top picks handy. #NBA']
-275,"['#Sources — Irving, Nets are at impasse in conversations about his future in Brooklyn, clearing way for the seven-time All-Star to consider the open market. Lakers and Knicks expected to emerge among potential suitors. #NBA']"
-276,['#Sources — Kenny Atkinson has decided he won’t become the Charlotte Hornets’ head coach and will remain with Golden State as top assistant. #NBA']
-277,"['#Sources — New York has offered Alec Burks, Nerlens Noel and pick 11 to Portland for pick 7. #NBA']"
-278,['#Sources — Members of Celtics front office view Mike Conley as trade target this off-season. Al Horford mentioned as possible piece heading to Utah. #NBA']
-279,"['#Sources — Knicks have received trade interest on Alec Burks, Obi Toppin, Nerlens Noel &amp; Derrick Rose. #NBA']"
-280,['#Sources — Jaden Ivey would prefer Kings don’t draft him with the 4th overall pick in this years NBA Draft. #NBA']
-281,['#Sources — Houston Rockets are finalizing a deal to trade Christian Wood to the Dallas Mavericks. #NBA']
-282,"['#Sources — 76ers’ will listen to trade offers on all players including draft picks except for Joel Embiid, James Harden, &amp; Tyrese Maxey. #NBA']"
-283,['#Sources — Hornets willing to move pick 15 in this years NBA Draft. #NBA']
-284,['#Sources — Bulls will listen to offers for PG Coby White AND pick 18 in this years NBA Draft. #NBA']
-285,"['#Sources — Hawks could trade a combination of Clint Capela, John Collins, Kevin Huerter and No. 16 overall pick for Rudy Gobert. #NBA']"
-286,"['#Sources — Denver is trading F JaMychal Green and a protected 2027 first-round pick to Oklahoma City for the No. 30 pick in this month’s NBA Draft and two future second-round picks. Nuggets have No. 21 and 30 in this draft now and Thunder has Nos. 2, 12 and 34. #NBA']"
-287,['#Sources — Knicks have been in contact with multiple teams in the top 10 of the NBA draft. Knicks are “blown away” by Purdue G Jaden Ivey. #NBA']
-288,['#Sources — San Antonio has serious interest in Phoenix FA big man Deandre Ayton. #NBA']
-289,"['#Sources — The Jazz are not fielding calls on Donovan Mitchell, but have engaged in trade talks for Rudy Gobert. #NBA']"
-290,"['#Sources — The Jazz received permission to interview several assistant coaches for head job, including Johnnie Bryant (Knicks), Will Hardy (Celtics), Charles Lee (Bucks), and Joe Mazzulla (Celtics). Jazz assistant Alex Jensen and Terry Stotts will interview too. #NBA']"
-291,['#Sources — Dwyane Wade “pushing hard” for David Fizdale as the next head coach of the Utah Jazz. #NBA']
-292,['#Sources — Blazers have shown interest in Atlanta PF John Collins. #NBA']
-293,['#Sources — Shai Gilgeous-Alexander growing impatient with the Thunder’s inability to compete. #NBA']
-294,['#Sources — Portland views Bradley Beal as more realistic trade target than Zach Lavine. #NBA']
-295,['#Sources — Kyrie Irving &amp; Brooklyn Nets getting closer on contract extension. #NBA']
-296,['#Sources — Four-time NBA All-Star Rasheed Wallace has agreed on a deal to be an assistant coach for the Lakers under new head coach Darvin Ham. #NBA']
-297,['#Sources — Utah Jazz coach Quin Snyder is planning to step down. #NBA']
-298,['#Sources — Dallas Mavericks will be in heavy pursuit of Pacers C Myles Turner. #NBA']
-299,['#Sources — Washington Wizards have shown interest in Cavaliers PG Colin Sexton. #NBA']
-300,['#Sources — 76ers have shown interest in Knicks G/F Alec Burks. Philadelphia willing to part with pick 23. #NBA']
-301,['#Sources — Bradley Beal remains committed to Washington. #NBA']
-302,['Blazers statement: An offer was made by Phil Knight. The team remains not for sale. #NBA']
-303,['#Sources — Knicks are finalizing a contract with Rick Brunson to become an assistant coach on Tom Thibodeau’s staff. #NBA']
-304,"['Jeff Van Gundy tested positive for COVID, and Mike Breen is still recovering from COVID, so they will both miss the Game 1 of the NBA Finals. Mark Jones and Mark Jackson will call Game 1 of the NBA Finals on ABC tonight. #NBA']"
-305,['#Sources — Nike founder Phil Knight and Dodgers co-owner Alan Smolinisky have made a $2 billion-plus written offer to purchase the Portland Trail Blazers. #NBA']
-306,['#Sources — Knicks have no desire to pursue Minnesota PG D’Angelo Russell. Prefer to move up in draft for Purdues Jaden Ivey. #NBA']
-307,['#Sources — Lakers would trade Talen Horton-Tucker if multiple players were heading back to Los Angeles. Team is emphasizing depth for next season. #NBA']
-308,['#Sources — Mike D’Antoni has slight edge over Kenny Atkinson in Charlotte’s head coaching search. #NBA']
-309,['#Sources — Knicks willing to include Julius Randle and Multiple 1st-round picks in exchange for an “all-star”. #NBA']
-310,"['#Sources — Blazers, Pelicans, Jazz will pursue Toronto Raptors OG Anunoby this off-season. #NBA']"
-311,"['#Sources — Kyle Lowry has “limited” trade value due to contract, age, &amp; injury history. #NBA']"
-312,['#Sources — Zion Williamson willing to turn down contract extension if not fully guaranteed. #NBA']
-313,['#Sources — Miami Heat will turn attention to Bradley Beal &amp; Donovan Mitchell as trade targets this off-season. #NBA']
-314,['#Sources — Lakers plan to keep Russell Westbrook for next season. Team unwilling to include additional assets to move the 9x all-star. #NBA']
-315,['#Sources — The Los Angeles Lakers are hiring Bucks assistant Darvin Ham on a four-year contract. #NBA']
-316,['#Sources — Mavericks prefer Myles Turner over Rudy Gobert. #NBA']
-317,['#Sources — Bulls have no desire to engage in S&amp;T talks with the Lakers on Zach Lavine this summer. #NBA']
-318,['#Sources — Portland Trail Blazers have shown interest in Knicks F Julius Randle. #NBA']
-319,['#Sources — Members within Mavericks organization view Pacers C Myles Turner as main trade target this summer. #NBA']
-320,['#Sources — Anthony Davis remains untouchable for the Lakers and will not be moved this off-season. #NBA']
-321,['#Sources — Kyrie Irving considering opting into player option for next season and then becoming UFA in 2023 due to Brooklyn’s unwillingness to offer max contract extension. #NBA']
-322,"['#Sources — NBA is expected to announce two new expansion teams, in Seattle and Las Vegas, after their media rights deal expires in 2024. #NBA']"
-323,['#Sources — Some Inside Wizards front office prefer to move on from Bradley Beal and move towards rebuild. #NBA']
-324,['#Sources — Atlanta Hawks will go all-in on Bulls G Zach LaVine this summer. #NBA']
-325,['#Sources — Knicks will look to move C Nerlens Noel this off-season. Re-signing Mitchell Robinson becoming top priority. #NBA']
-326,['#Sources — 76ers willing to include Matisse Thybulle in any trade that includes Tobias Harris. #NBA']
-327,['#Sources - Dallas Mavericks will show interest in Knicks free agent C Mitchell Robinson this off-season. #NBA']
-328,['#Sources — Growing fear inside Bulls organization that G Zach LaVine will leave during free agency. #NBA']
-329,['#Sources — Warriors will make push for Jazz C Rudy Gobert this off-season regardless of postseason outcome. #NBA']
-330,['#Sources — Knicks will NOT pursue Pacers PG Malcolm Brogdon due to “health concerns”. #NBA']
-331,"['#Sources — Trail Blazers, Lakers, Spurs &amp; Magic will pursue Zach Lavine this summer. #NBA']"
-332,['#Sources — Members within Knicks organization view RJ Barrett &amp; Immanuel Quickley as “untouchables”. #NBA']
-333,"['#Sources — Brooklyn Nets will offer Kyrie Irving a four-year, $182 million max deal after his expected decline player option for the 2022-2023 season. #NBA']"
-334,['#Sources — Portland willing to move out of pick 7 for “win now” type of player. #NBA']
-335,['#Sources — Knicks will field offers for pick 11. #NBA']
-336,['#Sources — Frank Vogel has strong support inside Hornets organization. #NBA']
-337,['#Sources — People close to Danny Green expect retirement as the next option. #NBA']
-338,['#Sources — Hawks have interest in trading for Ben Simmons this off-season. #NBA']
-339,['#Sources — Knicks will “explore” trade options for Minnesota PG D’Angelo Russell. #NBA']
-340,"['#Sources — Los Angeles Clippers forward Robert Covington has agreed on a two-year, $24 million contract extension. #NBA']"
-341,['#Sources — New Orleans has shown interest in trading for Timberwolves PG D’Angelo Russell. #NBA']
-342,['#Sources — Multiple teams have reached out to New York on the availability of veteran Alec Burks. Knicks open to talks. #NBA']
-343,"['#Sources — Hawks open to trading De’Andre Hunter, Danilo Gallinari this summer. #NBA']"
-344,['#Sources — Phil Jackson is advising the Lakers on their coaching search. 😳 #NBA']
-345,['#Sources — New Orleans will offer Zion Williamson a max contract with “heavy” incentive based stipulations. #NBA']
-346,['#Sources — Many within Hornets organization view Kenny Atkinson as front runner to be Charlotte’s next head coach. #NBA']
-347,['#Sources — Mavericks &amp; Warriors considered favorites to trade for Rudy Gobert this off-season. #NBA']
-348,['#Sources — Minnesota open to trading D’Angelo Russell this off-season. Team views Towns &amp; Edwards as cornerstones of franchise. #NBA']
-349,['#Sources — Jazz prefer to keep Donovan Mitchell over Rudy Gobert. #NBA']
-350,['#Sources — Steve Nash will return as head coach of the Brooklyn Nets next season regardless of outcome this year. #NBA']
-351,['#Sources — Charlotte is dismissing coach James Borrego. #NBA']
-352,['#Sources — Clippers considered “favorites” to sign PG John Wall if bought out by Houston. #NBA']
-353,['#Sources — Rockets prefer Paolo Banchero over Chet Holmgren if selecting first overall. #NBA']
-354,['#Sources — Charlotte will make both first round picks available for trade. Hornets currently own picks 13 + 15. #NBA']
-355,['#Sources — Zach LaVine will take meetings this off-season. First time as an unrestricted free agent. Bulls still heavy favorites. #NBA']
-356,['#Sources — Some within Knicks organization are “hesitant” to pursue Jalen Brunson this off-season. #NBA']
-357,['#Sources - Cleveland will explore trade opportunities for G Collin Sexton this off-season. #NBA']
-358,['#Sources — Carmelo Anthony prefers to end career in New York. Possible reunion with the Knicks this summer. #NBA']
-359,"['#Sources — Pacers will look to move Malcolm Brogdon this off-season. Lakers, Knicks, Pelicans, Celtics among teams interested. #NBA']"
-360,['#Sources — Hornets expected to move F P.J. Washington this off-season. #NBA']
-361,['#Sources — Lakers willing to run it back with Russell Westbrook if team can’t find a trade partner. #NBA']
-362,['#Sources — Phoenix will look to move C Deandre Ayton this summer. #NBA']
-363,['#Sources — Knicks have “little” interest in Pelicans F Zion Williamson with the recent emergence of Obi Toppin. Will turn attention to Donovan Mitchell if Utah makes the all star guard available this summer. #NBA']
-364,['#Sources — Knicks open to trading Julius Randle along with this years first round pick for something “significant” #NBA']
-365,['#Sources — Dallas will go all-in on C Rudy Gobert if Utah makes him available this off-season. #NBA']
-366,['#Sources — Bradley Beal wants a full season playing with Kristaps Porzingis. #NBA']
-367,['Tom Thibodeau is 78-76 (.506%) with the New York Knicks in his first 2 seasons. #NBA']
-368,['#Sources — 76ers’ will part ways with Doc Rivers this off-season if team doesn’t make the NBA Finals. Rivers has previously been linked to the LA Lakers. #NBA']
-369,['#Sources - Lakers &amp; Russell Westbrook have agreed to part ways this off-season. #NBA']
-370,['#Sources — Knicks attention this summer will be on Donovan Mitchell &amp; Zion Williamson. #NBA']
-371,['#Sources — Miami would entertain a Bradley Beal - Jimmy Butler swap. #NBA']
-372,['#Sources — The Lakers and Frank Vogel are expected to part ways after the season. #NBA']
-373,['#Sources — Knicks will pursue G Donovan Mitchell if Utah makes him available this summer. #NBA']
-374,['#Sources — Only thing keeping Jimmy Butler in Miami is a “Deep Playoff Run” Tension still high after feud between the veteran and head coach Erik Spoelstra. #NBA']
-375,['#Sources — Knicks have no plans to pursue G Jalen Brunson this off-season.  #NBA']
-376,['@craigcartonlive #Sources — Craig Carton is mad.']
-377,['#Sources — Julius Randle informed Knicks management after last nights game that he wants to be traded this off-season. #NBA']
-378,['Ben Simmons Diagnosed With Herniated Disk. #NBA']
-379,['#Sources — Bradley Beal prefers Philadelphia over Miami if traded this summer. #NBA']
-380,['#Sources — Knicks will field offers for Julius Randle this summer. #NBA']
-381,['#Sources — Knicks Tom Thibodeau will return next season. #NBA']
-382,"['#Sources — New York Knicks forward Cam Reddish will miss the rest of the season with a right shoulder separation. Reddish’s recovery timeline is expected to be in the six-week range, so he’ll be clear for a full summer of work ahead of the 2022-2023 season. #NBA']"
-383,['#Sources — DeAndre Jordan has cleared waivers and will sign with Sixers. Philly gets their Andre Drummond replacement. #NBA']
-384,['#Sources — Knicks will explore S&amp;T options this summer for big man Mitchell Robinson. #NBA']
-385,['#Sources — Nets star Kevin Durant is expected to return Thursday vs. Miami. He was not listed on injury report today. #NBA']
-386,['#Sources — The Los Angeles Lakers intend to waive DeAndre Jordan and sign free agent guard DJ Augustin. #NBA']
-387,['#Sources — Nets star Ben Simmons is dealing with back soreness in reconditioning process that requires further strengthening of the area over a period of time before return to action. #NBA']
-388,['Derrick Rose will undergo a minor procedure on his right ankle today. A timeline for his return has not yet been set. #NBA']
-389,['10-time NBA All-Star James Harden will make his Philadelphia 76ers debut on Friday at Minnesota. #NBA']
-390,['The New York Knicks and guard Kemba Walker have agreed that the four-time All-Star will be sidelined for the remainder of the team’s season. #NBA']
-391,"['New York City has a plan to phase out the vaccine mandate in the coming weeks, Mayor Eric Adams says, at which point Brooklyn Nets star Kyrie Irving would be cleared for home games.\n\nSpokesperson adds that current rules remain in place. #NBA']"
-392,['#Sources — Goran Dragic is signing with the Brooklyn Nets. #NBA']
-393,"['Anthony Davis has a mid-foot sprain and will be evaluated again in four weeks, team says. #NBA']"
-394,['#Sources — Knicks’ Tom Thibodeau on hot seat. Johnnie Bryant getting serious consideration as replacement. #NBA']
-395,['#Sources — The NBA is reinstating guard Tyreke Evans. He was suspended from the league in 2019 with a drug ban. #NBA']
-396,"['#Sources — James Harden will reportedly miss this year’s All-Star game to rehab his hamstring injury, and is expected to debut for the 76ers after the All-Star break. #NBA']"
-397,['#Sources — Knicks exploring buyout options with PG Kemba Walker. #NBA']
-398,['#Sources — The Lakers and Warriors are expected to pursue Goran Dragic after an expected contract buyout with the Spurs. #NBA']
-399,['#Sources — James Harden could make his Sixers debut this Tuesday against the Celtics. #NBA']
-400,['#Sources — Kyrie Irving was reportedly “eager” to see the Nets trade away James Harden. #NBA']
-401,"['#Sources — Dallas Mavericks forward Dorian Finney-Smith is finalizing four-year, $52 million contract extension. #NBA']"
-402,['#Sources — Celtics are trading Dennis Schroder to the Rockets in package for Daniel Theis. #NBA']
-403,['#Sources — The Mavericks are trading Kristaps Porzingis to the Washington Wizards in exchange for Spencer Dinwiddie. #NBA']
-404,"['#Sources — Lakers have offered Russell Westbrook + draft compensation to New York for Kemba Walker, Alec Burks, Nerlens Noel + Cam Reddish. #NBA']"
-405,['#Sources — Charlotte is acquiring Washington center Montrezl Harrell for Vernon Carey and Ish Smith. #NBA']
-406,"['#Sources — “The Knicks are close on some deals. They’re looking to move one, two or three of the veterans. Knicks are looking to have cap space this summer.” #NBA']"
-407,['#Sources — Nets looking to acquire Myles Turner. #NBA']
-408,['#Sources — The Nets are currently looking to flip Nic Claxton and the two 1st-round picks from the 76ers deal in a trade to improve their roster. #NBA']
-409,['#Sources — Lakers have reached out to the Knicks on acquiring G/F Alec Burks. #NBA']
-410,['#Sources — The Boston Celtics are trading Josh Richardson to the San Antonio Spurs for Derrick White. #NBA']
-411,"['#Sources — The Brooklyn Nets are trading James Harden to the Philadelphia 76ers for Ben Simmons, Seth Curry, Andre Drummond and two first-round picks. #NBA']"
-412,['#Sources — James Harden trade talks to Philly gaining momentum. Both sides motivated to get deal done before todays 3PM deadline. #NBA']
-413,"['#Sources — The Celtics are trading PJ Dozier and Bol Bol to the Magic for a future second, cash. Dozier and Bol are both out for the season. Cost-savings for Boston. #NBA']"
-414,"['#Sources — The Spurs and newly-acquired Goran Dragic are expected to reach a buy-out, via ESPN.\n\nThe Mavericks are the clear favorites to land him. Knicks have also shown interest. #NBA']"
-415,['#Sources — The Hornets and Spurs have discussed a trade surrounding P.J. Washington and Jakob Poeltl. #NBA']
-416,['#Sources — Knicks still in talks with Indiana on C Myles Turner. #NBA']
-417,"['#Sources — \nKings: Donte DiVincenzo, Trey Lyles and Josh Jackson.\nBucks: Serge Ibaka, two future second-round picks, cash. \nClippers: Rodney Hood, Semi Ojele. \nPistons: Marvin Bagley Jr.  #NBA']"
-418,"['#Sources — The Pistons are trading Josh Jackson and Trey Lyles to Sacramento. Four-team deal with Detroit, Sacramento, Milwaukee and LAC. #NBA']"
-419,['#Sources — The Los Angeles Clippers are trading Serge Ibaka to the Milwaukee Bucks. #NBA']
-420,['#Sources — The Toronto Raptors are trading Goran Dragic to the San Antonio Spurs for Thad Young. #NBA']
-421,['#Sources — The Sacramento Kings are trading Marvin Bagley III to the Detroit Pistons. Details to follow. #NBA']
-422,"['#Sources — The Bulls and Pistons have had discussions about a deal that would send Jerami Grant to Chicago, but the Bulls seem unwilling to part with Patrick Williams. #NBA']"
-423,['#Sources — Mavericks have been shopping PF/C Kristaps Porzingis. No teams have shown any interest. #NBA']
-424,['#Sources — Lakers showing interest in Celtics PG Dennis Schroder. #NBA']
-425,['#Sources — The Lakers are “aggressively” pursuing Cam Reddish ahead of today’s trade deadline. #NBA']
-426,['#Sources — James Harden is hopeful that Sixers President Daryl Morey will be able to trade for him prior to the 3PM deadline. But the two GMs have yet to get into serious talks. #NBA']
-427,['#Sources — Everyone on the Wizards roster is available for trade besides Bradley Beal and Kyle Kuzma. #NBA']
-428,"['#Sources — The Knicks, Lakers, and Raptors have discussed a three-team trade that would send Cam Reddish to LA, Dragic to New York, and Talen Horton-Tucker to Toronto. #NBA']"
-429,['#Sources — Knicks have shown interest in Magic C Mo Bamba. #NBA']
-430,['#Sources — Lakers tried to engage Knicks in potential Russell Westbrook trade. Knicks declined. #NBA']
-431,"[""#Sources — New York Knicks haven't shut down trade requests for Cam Reddish. #NBA""]"
-432,['#Sources — Heat making strong push for Hornets F P.J. Washington. #NBA']
-433,"['#Sources — The Utah Jazz are acquiring guard Portland’s Nickeil Alexander-Walker and the Spurs’ Juancho Hernangomez in a three-way deal. The Spurs gets guard Tomas Satoransky and a second-round pick, and the Blazers get Joe Ingles, Elijah Hughes and a second-round pick. #NBA']"
-434,"['#Sources — Nets have asked Sixers for both Matisse Thybulle and Tyrese Maxey to be included in a potential James Harden - Ben Simmons trade. Brooklyn also has tangible interest in sharpshooting guard Seth Curry, a career 44 percent 3-point shooter. #NBA']"
-435,['#Sources — Lakers have reached out to Indiana on G Buddy Hield. #NBA']
-436,['#Sources — Nets &amp; Sixers both motivated to get James Harden deal done before deadline. #NBA']
-437,['#Sources — Knicks have shown interest in Lakers G Russell Westbrook. #NBA']
-438,"['#Sources — The Heat, Raptors, Rockets are showing trade interest in PJ Washington. #NBA']"
-439,['#Sources — Wizards star Bradley Beal will undergo season-ending surgery for a torn scapholunate ligament in his left wrist. #NBA']
-440,['#Sources — James Harden is intentionally being held out of tonight’s game by Brooklyn. #NBA']
-441,['#Sources — \n\nFULL TRADE DETAILS:\n\nPacers receive:\nTyrese Haliburton\nBuddy Hield\nTristan Thompson\n\nKings receive:\nDomantas Sabonis\nJeremy Lamb\nJustin Holiday\n\n😳😳']
-442,['#Sources — The Raptors and Pacers have discussed a trade surrounding Goran Dragic and a 1st-round pick for Myles Turner. #NBA']
-443,"['#Sources — After missing out on CJ McCollum, the Knicks have shown interest in trading for Buddy Hield. #NBA']"
-444,['#Sources — Knicks view De’Aaron Fox as long term answer at point guard. #NBA']
-445,['#Sources — he New Orleans Pelicans are finalizing a deal to acquire Portland Trail Blazers guard CJ McCollum for a package around Josh Hart and draft compensation. #NBA']
-446,"['#Sources — Bucks, Celtics Discuss Donte DiVincenzo For Dennis Schroder Trade. #NBA']"
-447,['#Sources — The Portland Trail Blazers and New Orleans Pelicans are in serious discussions on a trade centered on guard CJ McCollum. #NBA']
-448,['#Sources — Knicks &amp; Blazers have had talks on a potential CJ McCollum Trade. #NBA']
-449,"['#Sources — The Cavs are sending a package to the Pacers that includes Ricky Rubio’s expiring contract, lottery-protected 2022 first-round pick and two second-round picks. Cavs receive Caris Levert. #NBA']"
-450,"['#Sources — 76ers, Hawks Have Discussed Ben Simmons For John Collins, Bogdan Bogdanovic, Picks. #NBA']"
-451,"[""#Sources — The Philadelphia 76ers are expected to pursue Brooklyn's James Harden ahead of NBA trade deadline Thursday – and the Nets are now open to discussing a deal. #NBA""]"
-452,"['#Sources — The Clippers are trading Eric Bledsoe, Justise Winslow, Keon Johnson and future second-round pick to the Trail Blazers for Norman Powell and Robert Covington. #NBA']"
-453,['#Sources — Nets have had internal talks on James Harden’s future with the team. #NBA']
-454,['#Sources — Damian Lillard would prefer to stay on the West Coast if Blazers decided to move him. #NBA']
-455,['#Sources — Harrison Barnes and Jerami Grant have received interest from the Utah Jazz. #NBA']
-456,['#Sources — Sacramento has engaged talks with New York on a Randle - Fox swap. #NBA']
-457,['#Sources — Knicks have inquired on the availability of Sacramento PG De’Aaron Fox. #NBA']
-458,"['JR Smith on ESPN:\n\n“If a team needs to add an extra shooter to their roster, I’m available.” #NBA']"
-459,"['#Sources — Eric Bledsoe, Serge Ibaka and Marcus Morris are the “most available” players on the Clippers prior to the deadline. #NBA']"
-460,['#Sources — Utah Jazz F Joe Ingles has suffered a season-ending torn left ACL. #NBA']
-461,['#Sources — The Celtics are “widely expected” to trade Dennis Schröder before the NBA’s trade deadline next week. #NBA']
-462,['#Sources — The Wizards are interested in trading Spencer Dinwiddie because “he looks like a shell of his former self” and “his teammates don’t want him there”. #NBA']
-463,"['#Sources — The Knicks are open to trading Kemba Walker, Evan Fournier &amp; Alec Burks. #NBA']"
-464,['#Sources — Sacramento has shown interest in Knicks F Julius Randle. #NBA']
-465,"['#Sources — James Harden not happy living in Brooklyn, frustrated with Kyrie’s part-time status and will test free agency. #NBA']"
-466,['#Sources — The 76ers have asked the Kings for Tyrese Haliburton and multiple 1st-round picks in a trade package for Ben Simmons. #NBA']
-467,['#Sources — Anthony Davis is expected to make his return from injury on Tuesday against the Nets. #NBA']
-468,['#Sources — Charlotte Hornets have expressed interest in Sixers PG Ben Simmons. #NBA']
-469,"[""#Sources — The New York Knicks organization has been fined $25,000 for violating league rules governing media access by refusing to make Julius Randle available after last night's game vs. Pelicans. #NBA""]"
-470,['#Sources — Nuggets To Sign DeMarcus Cousins To 10-Day Contract. #NBA']
-471,['#Sources — The Nets and Paul Millsap have agreed to part ways. #NBA']
-472,['#Sources — Miami Heat are willing to discuss trade packages involving Duncan Robinson. #NBA']
-473,"['#Sources — The Kings weighed a trade package of Buddy Hield, Tyrese Haliburton, Harrison Barnes and 2 1st-round picks for Ben Simmons, Matisse Thybulle, and Tobias Harris. #NBA']"
-474,"[""#Sources — Kings Discussing De'Aaron Fox In Trade Talks For Domantas Sabonis. #NBA""]"
-475,"['#Sources — Denver, Boston and San Antonio are making a three-way trade that includes  Juancho Hernangomez to Spurs, Bryn Forbes to Denver, Bol Bol and PJ Dozier to Celtics. #NBA']"
-476,['#Sources — Some within Knicks organization see Kings PG De’Aaron Fox as a viable option ahead of the Feb.10 trade deadline. #NBA']
-477,['#Sources — Nets “Fearful” Superstar James Harden relocates this off-season. #NBA']
-478,"['#Sources — Jalen Brunson is believed to be seeking a 4-year, $80 million contract. #NBA']"
-479,['#Sources — Pacers Looking For Two First Round Picks For Myles Turner. #NBA']
-480,['#Sources — Kevin Durant is expected to miss 4-6 weeks with a knee sprain. #NBA']
-481,['#Sources — Celtics have inquired on Sacramento PG De’Aaron Fox. Boston reportedly willing to “do whatever it takes” to land the young star in Boston. #NBA']
-482,['#Sources — Sixers have shown interest in Atlanta F John Collins. #NBA']
-483,"['#Sources — Brooklyn Nets star Kevin Durant has been fined $15,000 for using profane language during a media interview and failing to comply with an NBA Security interview as part of the review process. #NBA']"
-484,['#Sources — Kings &amp; PG De’Aaron Fox showing mutual interest on a trade that would send Fox out of Sacramento. #NBA']
-485,['#Sources — Lakers looking to move on from G Russell Westbrook. #NBA']
-486,"['#Sources — Knicks have fielded offers on Mitchell Robinson, Evan Fournier &amp; Alec Burks. #NBA']"
-487,['#Sources — Knicks have revived interest on G/F Evan Fournier. #NBA']
-488,['#Sources — 76ers likely to include Tobias Harris in any Ben Simmons trade offer. #NBA']
-489,['#Sources — The Los Angeles Lakers are finalizing trading Denzel Valentine to the New York Knicks as part of what is now a three-team deal sending Rajon Rondo to the Cleveland Cavaliers. #NBA']
-490,['#Sources — The Cleveland Cavaliers are in serious talks on a deal to acquire Lakers guard Rajon Rondo. #NBA']
-491,"[""#Sources — The Raptors' arena announces they will not have any fans for games during the first three weeks in January 2022. #NBA""]"
-492,['#Sources — The league has postponed the Warriors-Nuggets game tonight. #NBA']
-493,['#Sources — Mario Chalmers is signing a 10 day contract with the Miami Heat. #NBA']
-494,"[""#Sources — Cleveland Cavaliers guard Darius Garland -- one of the season's revelations -- has entered into Covid protocols. #NBA""]"
-495,"[""#Sources — Nets' Kevin Durant, Kyrie Irving and LaMarcus Aldridge have cleared health and safety protocols. #NBA""]"
-496,"['#Sources — All-NBA star Kyrie Irving has started process to return to the Brooklyn Nets. Irving is ramping up, has begun team COVID-19 testing, and his season debut date is still to be determined. #NBA']"
-497,"[""#Sources — Kings guard De'Aaron Fox has entered health and safety protocols. #NBA""]"
-498,['#Sources — Lakers guard Russell Westbrook entered health and safety protocols. #NBA']
-499,['#Sources — #Knicks have reached out to Philadelphia in regards to Ben Simmons. #NBA']
-500,['#Sources — League officials fear of another work stoppage due to the COVID-19 outbreak this season. #NBA']
-501,"['#Sources: The Sacramento Kings are having a COVID-19 outbreak of multiple positive tests among players and staffers, including Marvin Bagley, Alvin Gentry — with potentially multiple additional players and staff entering protocols. There are some symptomatic cases.']"
-502,['#Sources — #Knicks have no interest in trading for Rockets veteran PG John Wall. #NBA']
-503,['Breaking: Magic rookie Jalen Suggs has suffered a fractured right thumb and will be out an extended period of time. #NBA']
-504,"['Alec Burks will start at point guard tomorrow against the Nets, Tom Thibodeau says. #NBA #Knicks']"
-505,['Reigning NBA MVP Nikola Jokic will return to lineup tonight for Nuggets vs. Heat after missing four games due to wrist sprain. #NBA']
-506,"['#Breaking: Knicks coach Tom Thibodeau tells reporters that Kemba Walker is out of the rotation, and Alec Burks will remain the starting point guard. #NBA']"
-507,"['#Sources — Memphis Grizzlies F Jaren Jackson Jr., has agreed to a four-year, $105 million rookie contract extension. #NBA']"
-508,['#Sources — Brooklyn Nets say Kyrie Irving “will not play or practice with the team until he is eligible to be a full participant.” #NBA']
-509,"['#BREAKING: 18 former NBA players have been arrested and charged federally for defrauding the NBA’s Health and Welfare Benefit Plan out of approximately $4,000,000, law enforcement officials say. #NBA']"
-510,['#Sources — 76ers’ in no rush to move on from PG Ben Simmons. Philly hasn’t received any intriguing offers yet. #NBA']
-511,['#Sources — Members inside Brooklyn’s front office strongly believe Kyrie Irving will not be available for home games this year. #NBA']
-512,['#Sources — Philadelphia &amp; Indiana are “motivated” to get a deal done centered around Ben Simmons. #NBA']
-513,['#Sources — The 76ers are not paying Ben Simmons his $8.25 million payment due today as the three-time All-Star awaits a trade. Simmons still is not showing up to Philadelphia and has understood the ramifications of his holdout. #NBA']
-514,"['#Sources — Kyrie Irving is expected to get the COVID-19 vaccine, with close friend Kevin Durant influencing the decision. #NBA']"
-515,['#Sources — Philadelphia reached out to NY on the possibility of acquiring PG Ben Simmons. Knicks showed no interest. #NBA']
-516,"[""#Sources — Ben Simmons has concluded that he's done playing with Joel Embiid.\n\nWhile it's not personal, Simmons believes that playing around Embiid’s style isn’t conducive to the way he needs to play. #NBA""]"
-517,"['#Sources — Denver Nuggets forward Michael Porter Jr., has agreed on a five-year designated max extension that could be worth up to $207 million. #NBA']"
-518,['#Sources — Philadelphia 76ers All-Star Ben Simmons will not report for opening of training camp next week and intends to never play another game for the franchise. #NBA']
-519,['#Sources — The Mavericks have emerged as the likely next destination for former Knicks guard Frank Ntilikina. #NBA']
-520,"['#Sources — Denver Nuggets forward Aaron Gordon has agreed to a four-year, $92 million contract extension with the franchise. #NBA']"
-521,"['#Sources — John Wall, Houston Rockets meet and mutually agree to work together on finding a new home for the five-time All-Star guard. Plan is for Wall to be present at training camp, but not play in Rockets games this season. #NBA']"
-522,"['#Sources — Brooklyn is trading C DeAndre Jordan, four future-second round picks and $5.78M to Detroit for Jahlil Okafor and Sekou Doumbouya. Pistons plan to work through a buyout on two-years, $20M owed Jordan; Nets will save $47M in salary and tax on deal. #NBA']"
-523,['#Sources — Free agent Paul Millsap has agreed to a deal with the Brooklyn Nets. #NBA']
-524,['#Sources — Ben Simmons informed the Sixers brass in a meeting that he no longer wants to be part of the team. \nSimmons will not report to training camp. #NBA']
-525,['#Sources — Memphis and PG Rajon Rondo have agreed to a buyout. Lakers front runners to sign the veteran guard. #NBA']
-526,"['#Sources — Cleveland is acquiring Chicago restricted free agent F Lauri Markkanen on a four-year, $67M deal in a sign-and-trade. #NBA']"
-527,['#Sources — Josh Richardson has agreed to a one-year extension with the Celtics that will pay him $24M over two seasons. #NBA']
-528,['#Sources — The Hawks are hiring Nick Van Exel as an assistant coach. #NBA']
-529,['#Sources — Warriors President Bob Myers “Unhappy” with Draymond Green. #NBA']
-530,"['#Sources — Boston Celtics center Robert Williams has agreed on a four-year, $54M contract extension. #NBA']"
-531,"['#Sources — Terry Rozier agrees to a four-year, $97M max contract extension. #NBA']"
-532,['#Sources — 76ers’ looking to move on from PG Ben Simmons by end of August. #NBA']
-533,['#Sources — Sacramento’s Davion Mitchell and Brooklyn’s Cam Thomas -- have been named Co-MVPs of 2021 NBA Summer League. #NBA']
-534,['#Sources — Memphis Grizzlies are trading Patrick Beverley to the Minnesota Timberwolves for Jarrett Culver and Juancho Hernangomez. #NBA']
-535,"['#Sources — Philadelphia 76ers center Joel Embiid is finalizing a four-year, $196 million supermax contract extension. #NBA']"
-536,"['#Sources — Boston Celtics guard Marcus Smart has agreed to a four-year, $77.1 million max contract extension with the franchise. #NBA']"
-537,"['#Sources — Restricted free agent G Josh Hart is closing in on a three-year, $38 million deal to stay with the New Orleans Pelicans. #NBA']"
-538,"['#Sources — The Los Angeles Clippers are trading Patrick Beverley, Rajon Rondo and Daniel Oturu to the Memphis Grizzlies for guard Eric Bledsoe. #NBA']"
-539,['#Sources — Sacramento is open to trading rising star PG De’Aaron Fox. #NBA']
-540,['#Sources — Ben Simmons prefers trade completed before training camp. #NBA']
-541,"['#Sources — Warriors, Spurs, Wolves Among Teams Interested In Trade For Ben Simmons. #NBA']"
-542,"['#Sources — Free Agent G Frank Ntilikina drawing interest from Golden State, Utah, and San Antonio. #NBA']"
-543,"['#Sources — Kemba Walker’s contract with the Knicks is a 2-year, $18 mil deal. STEAL. #NBA']"
-544,['#Sources — Free agent G Dennis Schroder has agreed to a one-year deal with the Boston Celtics. #NBA']
-545,"['#Sources — Lauri Markkanen Receiving Interest From Mavs, Pelicans, Wolves, Celtics. #NBA']"
-546,"['#Sources — Celtics Offer Dennis Schroder One-Year, $5.9M Deal. #NBA']"
-547,['#Sources — The Knicks have agreed to a deal with free agent guard Dwayne Bacon. #NBA']
-548,['#Sources — 76ers still have strong interest in Blazers SG CJ McCollum. #NBA']
-549,"['#Sources — Luka Doncic Agrees To Five-Year, $207M Supermax Extension With Mavericks. #NBA']"
-550,['#Sources — Memphis is trading guard Grayson Allen to Milwaukee for Sam Merrill and two future second-round picks. #NBA']
-551,"['#Sources — Brooklyn Nets star Kevin Durant plans to sign a four-year, $198 million contract extension sometime after he becomes eligible on Saturday. #NBA']"
-552,"['#Sources — New York Knicks All-Star Julius Randle has agreed to a four-year, $117 million contract extension. #NBA']"
-553,['#Sources — Spencer Dinwiddie agrees to a 3 year deal with Washington. The Wizards are sending a second-round pick and a draft swap to Brooklyn to acquire Spencer Dinwiddie. #NBA']
-554,['#Sources — Kemba Walker will sign a 2 year contract with the Knicks in the $8-9 million range. #NBA']
-555,"['#Sources — Spencer Dinwiddie is expected to receive a 3 year, $62M deal with the Wizards. #NBA']"
-556,"['#Sources — Knicks Have Team Options On Final Year Of Alec Burks, Nerlens Noel, Evan Fournier Deals. #NBA']"
-557,['#Sources — Free agent Victor Oladipo has agreed to a deal to return to the Miami Heat. #NBA']
-558,['#Sources — Kemba Walker is finalizing a contract buyout with the Thunder and the New York Knicks will sign the four-time NBA All-Star as a free agent. #NBA']
-559,"['#Sources — Restricted free agent F John Collins has agreed to a five-year, $125M deal to stay with the Atlanta Hawks. #NBA']"
-560,['#Sources — Free agent C Hassan Whiteside has agreed to a deal with the Utah Jazz. #NBA']
-561,['#Sources — Kendrick Nunn has agreed to a 2 year deal with the Los Angeles Lakers. #NBA']
-562,"['#Sources — The San Antonio Spurs are finalizing sending DeMar DeRozan to the Chicago Bulls for Thad Young, a future first-round pick and two second-round picks. #NBA']"
-563,['#Sources — Free agent star DeMar DeRozan is close to reaching an agreement with the Chicago Bulls. #NBA']
-564,['#Sources — #Knicks and UFA G Kendrick Nunn have “mutual interest”. #NBA']
-565,"['Lakers still have a Taxpayer MLE of $5.9 million to use in free agency.  \n\nMelo, Monk, Ariza, Ellington, Bazemore and Dwight all joined on the minimum.\n\n#NBA']"
-566,['#Sources — Free agent G Malik Monk has agreed to a deal with the Los Angeles Lakers. #NBA']
-567,['#Sources — Free agent F Carmelo Anthony has agreed to a one-year deal with the Los Angeles Lakers. #NBA']
-568,"['#Sources — Free agent G Patty Mills has agreed to a two-year, $12M deal with the Brooklyn Nets. #NBA']"
-569,['#Sources — Free agent C Andre Drummond has agreed to a one-year deal with the 76ers. #NBA']
-570,['#Sources — Free agent forward Otto Porter Jr. has reached an agreement with the Golden State Warriors. #NBA']
-571,['#Sources — Clippers and Spurs remain interested in signing Demar Derozan. #NBA']
-572,['#Sources — Free agent guard Spencer Dinwiddie is nearing a deal with the Washington Wizards. #NBA']
-573,"['#Sources — Atlanta Hawks All-Star G Trae Young has agreed to a five-year, $207 million designated rookie maximum extension. #NBA']"
-574,"['#Sources — Oklahoma City Thunder guard Shai Gilgeous-Alexander has agreed to a five-year, $172 million maximum rookie contract extension. #NBA']"
-575,['#Sources — Free agent center Richaun Holmes has agreed to a four-year deal worth as much as $55 million to return to the Sacramento Kings. #NBA']
-576,['#Sources — Blake Griffin has agreed on a one-year deal to stay with the Brooklyn Nets. #NBA']
-577,"['#Sources — The New Orleans Pelicans are landing Charlotte restricted free agent guard Devonte Graham on a four-year, $47M contract in a sign-and-trade deal. #NBA']"
-578,"['#Sources — PJ Tucker is signing a two-year, $15 million deal with Miami. #NBA']"
-579,"['#Sources — Free agent guard Cory Joseph and the Detroit Pistons have reached an agreement on a two-year, $10 million deal. #NBA']"
-580,"['#Sources — Free agent center JaVale McGee has reached an agreement with the Phoenix Suns on a one-year, $5 million deal. #NBA']"
-581,"['#Sources — Alex Caruso has agreed to a four-year, $37M deal with the Bulls. #NBA']"
-582,"['#Sources — Free agent G Derrick Rose has agreed to a three-year, $43M deal to return to the New York Knicks. #NBA']"
-583,['#Sources — Free agent Nicolas Batum has agreed to a two-year deal to return to the Los Angeles Clippers. #NBA']
-584,['#Sources — Free agent Evan Fournier has agreed to a four-year deal that could be worth as much as $78M with the New York Knicks. #NBA']
-585,['#Sources — Lakers and Nets are in pursuit of Patty Mills. #NBA']
-586,['#Sources — Free agent Dwight Howard is returning to the Lakers. #NBA']
-587,['#Sources — Miami Heat are still looking to add both Demar Derozan and Kelly Oubre. #NBA']
-588,"['#Sources — Wayne Ellington, Lakers Agree To One-Year Deal. #NBA']"
-589,['#Sources — Free agent F Trevor Ariza has agreed to a one-year deal with the Los Angeles Lakers. #NBA']
-590,['#Sources — #Knicks &amp; free agent Evan Fournier “progressing” towards deal. #NBA']
-591,['#Sources — Derrick Rose and the Knicks are likely to work out a deal. #NBA']
-592,"['#Sources — Jeff Green is heading to the Nuggets on a 2-year, $10 million deal. #NBA']"
-593,['#Sources — #Mavericks &amp; Reggie Bullock agree on multi-year deal. #NBA']
-594,"['#Sources — Gary Trent Jr., has agreed to a three-year, $54M deal to return to the Toronto Raptors. #NBA']"
-595,"['#Sources — Free agent star Chris Paul reaches agreement with Phoenix Suns on four-year, up to $120 million contract that will expire when he’s 40. #NBA']"
-596,['#Sources — Heat &amp; Duncan Robinson agree to 5 year / $90 million deal. #NBA']
-597,['#Sources — Kyle Lowry is signing with the Miami Heat. #NBA']
-598,"['#Sources — TJ McConnell has agreed to a four-year, $35.2M deal to stay with the Pacers. #NBA']"
-599,"['#Sources — Free agent guard Cameron Payne has agreed to re-sign with the Phoenix Suns on a three-year, $19 million deal. #NBA']"
-600,"['#Sources — Free agent G Alec Burks has agreed to a three-year, $30M contract to stay with the New York Knicks. #NBA']"
-601,"['#Sources — Free agent Kelly Olynyk has agreed to a three-year, $37M deal with the Detroit Pistons. #NBA']"
-602,"['#Sources — Free agent Mike Conley Jr. has agreed to a three-year, $68 million deal to return to the Utah Jazz. #NBA']"
-603,"['#Sources — Free agent Tim Hardaway Jr. has agreed to a four-year, $72 million deal to return to the Dallas Mavericks. #NBA']"
-604,"['#Sources — Lonzo Ball has agreed to a four-year, $85 million deal with the Chicago Bulls. #NBA']"
-605,"['#Sources — Mike Conley, Jazz Expected To Agree To Three-Year Deal. #NBA']"
-606,['#Sources — Tim Hardaway Jr. Likely To Re-Sign With Mavericks. #NBA']
-607,"['#Sources — Spencer Dinwiddie market down to three teams. Knicks, Pelicans, and the Wizards. #NBA']"
-608,['#Sources — Knicks &amp; C Nerlens Noel expected to reach agreement on new multi-year deal. #NBA']
-609,['#Sources — Knicks &amp; Alec Burks expected to agree on a Three-Year / $30M deal at the start of free agency. #NBA']
-610,['#Sources — Chicago Bulls are trying to bring in both Demar Derozan and Lonzo Ball. #NBA']
-611,['#Sources — Rudy Gay appears to be leaning towards wanting to join the Lakers. #NBA']
-612,"[""#Sources — Everything is in place' for Heat and Kyle Lowry to agree on a contract at the start of free agency. #NBA""]"
-613,['#Sources — Phoenix Suns have expressed interest in Alex Caruso. #NBA']
-614,['#Sources — The Cavaliers are preparing to offer Jarrett Allen a deal in the range of five years and $100M. #NBA']
-615,['#Sources — Lakers Continue To Explores Ways Of Trading For Buddy Hield. #NBA']
-616,['#Sources — Knicks &amp; Evan Fournier have “mutual interest”.  #NBA']
-617,['#Sources — The Hornets and Bulls are in talks on a trade that sends Lauri Markkanen to the Charlotte Hornets. #NBA']
-618,"[""#Sources — Thunder Preparing Aggressive Offer Sheet For Devonte' Graham. #NBA""]"
-619,['#Sources — Celtics More Likely To Trade Marcus Smart Than Extend Him. #NBA']
-620,"['#Sources — Stephen Curry, Warriors To Agree To Four-Year, $215M Extension. #NBA']"
-621,['#Sources — Free Agent Guard Spencer Dinwiddie and New Orleans have “mutual interest”. #NBA']
-622,['#Sources — Miami Heat going all in on Kyle Lowry + Demar Derozen. #NBA']
-623,['#Sources — Duncan Robinson does not expect a return to Miami. #NBA']
-624,['#Sources — Knicks brass will meet with Kawhi Leonard during free agency. #NBA']
-625,['#Sources — The Philadelphia 76ers are reportedly shopping Tobias Harris. #NBA']
-626,['#Sources — Kawhi Leonard will listen to other teams in free agency. #NBA']
-627,['#Sources — The Knicks and Pacers have discussed a trade that involves Myles Turner and Mitchell Robinson. #NBA']
-628,['#Sources — Chris Paul will decline his $44.2M player option and become an unrestricted free agent. #NBA']
-629,['#Sources — Grizzlies Decline $13M Team Option For Justise Winslow. #NBA']
-630,"['#Sources — Knicks have not extended Frank Ntilikina a qualifying offer ahead of today’s deadline. Ntilikina will be an unrestricted free agent. He has an $18M cap hold. NYK can still re-sign Ntilikina, the No. 8 pick in the 2017 draft. #NBA']"
-631,['#Sources — Carmelo Anthony wants a New York “reunion”. #NBA']
-632,['#Sources — Los Angeles Clippers star Kawhi Leonard is expected to decline his $36 million player option to become an unrestricted free agent. #NBA']
-633,"[""#Sources — Portland isn't extending the $7M qualifying offer to Zach Collins, officially making him a free agent. #NBA""]"
-634,['#Sources — The Dallas Mavericks are picking up center Willie Cauley-Stein’s $4.1 million team option. #NBA']
-635,['#Sources — Clippers F/C Serge Ibaka is exercising his $9.7 million player option for the 2021-22 season. #NBA']
-636,['#Sources — Zach Lavine “undecided” on future with Chicago. #NBA']
-637,"['#Sources — Jazz Preparing Three-Year, $75M Offer To Mike Conley. #NBA']"
-638,['#Sources — The Utah Jazz have agreed to trade C Derrick Favors and a future first-round pick to the Oklahoma City Thunder for a future second-round pick. #NBA']
-639,['#Sources: Clippers are selecting at No. 21 via Knicks and take Keon Johnson. #NBADraft']
-640,"['Oklahoma City, No. 18: Tre Mann. #NBA']"
-641,['#Sources — OKC is trading No. 16 to Houston. #NBA']
-642,['#Sources — Indiana has acquired the 31st pick from Milwaukee. #NBA']
-643,"['#Sources — The Washington Wizards have agreed to trade Russell Westbrook, 2024 second-round pick, 2028 second-round pick to the Los Angeles Lakers for Kyle Kuzma, Kentavious Caldwell-Pope, Montrezl Harrell and No. 22 tonight. #NBA']"
-644,"['#Sources — Bradley Beal has ""no desire"" to leave the Wizards. #NBA']"
-645,['#Sources — Detroit is finalizing a trade to send C Mason Plumlee and the No. 37 pick to Charlotte for the No. 57 pick. #NBA']
-646,"['#Sources — The Cleveland Cavaliers are acquiring Minnesota Timberwolves G Ricky Rubio, a 2022 second-round pick and cash for F Taurean Prince. #NBA']"
-647,['#Sources — Carmelo Anthony intends to sign with the Lakers during free agency. #NBA']
-648,"[""#Sources — The Lakers are near a deal to acquire Washington's Russell Westbrook for Kyle Kuzma, Montrezl Harrell, Kentavious Caldwell-Pope and a 2021 first-round pick. #NBA""]"
-649,"['#Sources — The Lakers and Wizards are discussing a trade that would send Kyle Kuzma, Montrezl Harrell, Kentavious Caldwell-Pope for Westbrook. #NBA']"
-650,"[""#Sources — Brooklyn has traded guard Landry Shamet to Phoenix for Jevon Carter and the 29th pick in tonight's draft. #NBA""]"
-651,['#Sources — Lakers center Montezl Harrell is opting into his $9.7M player option for next season. #NBA']
-652,"[""#Sources — Warriors Reject 76ers' Offer Of Ben Simmons For Wiseman, Wiggins, Nos. 7, 14, Two Future Firsts. #NBA""]"
-653,['#Sources — Spurs Interested In Kyle Kuzma As Part Of DeMar DeRozan Sign-And-Trade With Lakers. #NBA']
-654,['#Sources — #Lakers have reached out to Indiana on the availability of C Myles Turner. #NBA']
-655,['#Sources — Pistons will select Cade Cunningham with the No. 1 overall pick in tonight’s NBA Draft. #NBA']
-656,['#Sources — #Knicks have offered Orlando pick 21 + Kevin Knox for Terrance Ross + pick 33. #NBA']
-657,"['#Sources — The Lakers are reportedly offering their no.22 pick, Montrezl Harrell, and either Kyle Kuzma or KCP to the Kings in return for Buddy Hield. #NBA']"
-658,['#Sources — #Knicks have reached out to Orlando about veteran guard Terrance Ross. #NBA']
-659,['#Sources — Pelicans have traded No. 53 in NBA Draft to Philadelphia for cash considerations. #NBA']
-660,['#Sources — The Knicks tried trading for Grizzlies guard Dillion Brooks - but were denied multiple times. \n\nKnicks offered one of their 1st round picks this year &amp; more. #NBA']
-661,"['#Sources — Lakers, Mavs, Knicks, Pelicans Interested In Trading For Landry Shamet. #NBA']"
-662,['#Sources — Brooklyn has tendered guard Bruce Brown a qualifying offer to make him a restricted free agent. #NBA']
-663,"['#Sources — Jaxon Hayes got into a fight with cops when they tried to check in on a party. Hayes ended up getting tased, and taken to a nearby hospital for treatment for minor injuries. Hayes is expected to be booked for felony battery on a police officer. #NBA']"
-664,"[""#Sources — Mike D'Antoni Steps Down From Full Time Coaching Role With Nets. #NBA""]"
-665,['#Sources — OKC &amp; Toronto are exploring options on swapping the #4 &amp; #6 picks. #NBA']
-666,['#Sources — Sacramento has made pick 9 available for trade. #NBA']
-667,"['#Sources — Houston (picks 23,24) &amp; New York (picks 19,21) have continued their search to jump into the teens. #NBA']"
-668,['#Sources — Dallas is determined to get 1 of Kyle Lowry or Mike Conley. #NBA']
-669,['#Sources — Talks between the Raptors &amp; Sixers are considered to be the most advanced of any conversation Philly has had for PG Ben Simmons. #NBA']
-670,['#Sources — Thunder &amp; Charlotte have deal in place that would send picks 16+18 to Charlotte in exchange for pick 11. #NBA']
-671,['#Sources — Kris Dunn Picks Up $5M Option With Hawks For 21-22. #NBA']
-672,"['#Sources — Pelicans have had trade discussions regarding Brandon Ingram with the Knicks, Heat, Kings, Rockets &amp; 76ers. Nothing is imminent. #NBA']"
-673,"['#Sources — Kyle Lowry Seeking Three-Year, $90M Deal. #NBA']"
-674,['#Sources — Knicks will look to pursue Demar Derozen &amp; Spencer Dinwiddie. #NBA']
-675,['#Sources — Thunder are open to trading PG Shai-Gilgeous Alexander. #NBA']
-676,['#Sources — Mavericks looking to move G/F Josh Richardson. #NBA']
-677,['Thunder offered the No. 6 pick and Shai Gilgeous-Alexander in exchange for No. 1 -- the Pistons declined. #NBA']
-678,['#Sources — Carmelo Anthony and the Lakers have mutual interest in free agency. #NBA']
-679,['#Sources — Warriors have reached out to New York on the possibility of being the third team in a trade between Washington and Golden State. Warriors receive Beal. Knicks receive Westbrook. Wizards receive a collection of picks and young talent. #NBA']
-680,['#Sources — Detroit’s front office is split on Cade Cunningham / Jalen Green for the #1 overall pick in Thursday’s NBA Draft. #NBA']
-681,['#Sources — Philadelphia is fielding offers for PG Ben Simmons. Highly unlikely Simmons remains a 76er going into next season. #NBA']
-682,"['#Sources — Memphis is finalizing a trade to send Jonas Valanciunas and 2021 Nos. 17 and 51 picks to New Orleans for Steven Adams, Eric Bledsoe, 2021 picks Nos. 10 and 40 and a protected 2022 first-round pick via the Lakers. #NBA']"
-683,['#Sources — Knicks have had internal discussions about trading for Hawks G Cam Reddish. Hawks looking for a first round pick in return. Knicks have picks 19+21. #NBA']
-684,['#Sources — Pelicans are determined to trade Eric Bledsoe by end of draft night. #NBA']
-685,['#Sources — #Knicks looking to move into top 10 of Thursday’s NBA Draft. #NBA']
-686,['#Sources — Knicks will have competition in retaining veteran wing Reggie Bullock. #NBA']
-687,"['#Sources — Raptors, Wolves, Cavs, Pacers and Kings have all showed interest in acquiring Ben Simmons. #NBA']"
-688,"[""#Sources — Rockets 'Stonewalled' By Evan Mobley, Jalen Suggs With Jalen Green Now Considered 'Lock' At No. 2. #NBA""]"
-689,"['#Sources — Lakers, Kings Discuss Buddy Hield For Kyle Kuzma Trade. #NBA']"
-690,['#Sources — Mavericks interested in trading for Pacers C Myles Turner. #NBA']
-691,['#Sources — Pelicans have reached out to Charlotte on the availability of PG Terry Rozier. #NBA']
-692,['#Sources — Warriors have no desire to trade for Ben Simmons. Team remains all-in on Wizards star Bradley Beal. #NBA']
-693,['#Sources — Karl-Anthony Towns considering trade request. #NBA']
-694,['#Sources — Bradley Beal is considering making a trade request before the NBA draft. #NBA']
-695,['#Sources — #Knicks believed to be favorites to sign Kawhi Leonard if he chooses to leave LA. #NBA']
-696,['#Sources — Pelicans plan on moving atleast 1 of Eric Bledsoe &amp; Steven Adams. #NBA']
-697,"['#Sources — Kyle Lowry, DeMar DeRozan, Spencer Dinwiddie Interested In Joining Lakers. #NBA']"
-698,['#Sources — Market is thin for Free Agent PG Elfrid Payton. #NBA']
-699,['#Sources — Oregon G Chris Duarte works out for the Knicks today. The Knicks pick at 19 and 21 in the Draft. Knicks expected to consolidate picks to move up. #NBA']
-700,"['#Sources — GSW have had multiple conversations with Washington on the availability of G Bradley Beal. Golden state willing to offer Wiggins, Wiseman, Picks 7+14. #NBA']"
-701,"['#Sources — Rockets G John Wall looking to get bought out. Sixers, Nets, Lakers &amp; Clippers believed to have interest. #NBA']"
-702,['#Sources — Teams Offering High Pick In 2021 Draft As Part Of Package To Blazers For CJ McCollum. #NBA']
-703,['#Sources — Raptors &amp; Magic Make Trade Offers To Cavaliers For No.3 pick. #NBA']
-704,['#Sources — The Hawks have extended a qualifying offer to John Collins. \n\nHe will enter free agency as a restricted free agent. \n\n#NBA']
-705,['#Sources — #Blazers motivated to move CJ McCollum for #76ers PG Ben Simmons. #NBA']
-706,"['#Sources — #Knicks have talked about the possibility of holding enough cap space this summer for 2022 &amp; keeping enough money around to go after a max player in that 2022 class, which should include Bradley Beal and Zach Lavine. #NBA']"
-707,['#Sources — #Timberwolves will be in pursuit of Hawks RFA PF John Collins. #NBA']
-708,['#Sources — Cavaliers gauging interest around the league for C Jarrett Allen. Cleveland expected to select USC big man Evan Mobley with the 3rd overall pick in next Thursday’s NBA Draft. #NBA']
-709,['#Sources — HS prospect Mikey Williams signs with Excel Sports Management for endorsements. \n\nThe deal is expected to generate millions for the 17-year-old. #NBA']
-710,['#Sources — Free Agent G Alec Burks prefers a return to New York. #NBA']
-711,"['#Sources — Reggie Bullock To Receive Interest From Knicks, Celtics, 76ers, Lakers. #NBA']"
-712,['#Sources — #Blazers have reached out to Toronto on the availability of F Pascal Siakam. #NBA']
-713,['#Sources — #Lakers shifting focus to acquire Wizards G Russell Westbrook. #NBA']
-714,"['#Sources — #Knicks plan to offer Kevin Knox, picks 19 + 32, in exchange for Cleveland PG Collin Sexton. #NBA']"
-715,['#Sources — Lakers looking to bring in a veteran PG this off-season. Chris Paul &amp; Russell Westbrook on top of their list. #NBA']
-716,"[""Giannis' resume at 26-years-old is INSANE:\n\n• 2x NBA MVP\n• 5x NBA All-Star\n• 3x All-NBA 1st Team\n• 2x All-NBA 2nd Team\n• 2020 NBA DPOY\n• 3x All-NBA 1st Team Defense\n\nAnd now 50 points, 14 rebounds &amp; 5 blocks to win an NBA Title &amp; Finals MVP.\n\nLegendary.\n\n#NBA""]"
-717,['#Sources — #Knicks have received multiple calls on the availability of G Immanuel Quickley. New York thus far have been uninterested. #NBA']
-718,"['#Sources — Norman Powell is declining his $11.6M player option and will become an UFA. Blazers are making it their ""top priority"" to re-sign him. #NBA']"
-719,['#Sources — Pelicans willing to include F Brandon Ingram in deal for Blazers superstar Damian Lillard. #NBA']
-720,['#Sources - #Knicks and FA Duncan Robinson have mutual interest. #NBA']
-721,['#Sources — #Knicks looking at cost of Shai Gilgeous &amp; De’Aaron Fox trade before moving all in on Dame Lillard. #NBA']
-722,['#Sources — Pelicans interested in signing Free Agent G Kyle Lowry. #NBA']
-723,['#Sources — Kawhi Leonard expected to return by February 2022. #NBA']
-724,['#Sources — #Nets looking to move G Spencer Dinwiddie &amp; G/F Joe Harris for 4th star. #NBA']
-725,['#Sources — Derrick Rose views #Knicks as only destination this off-season. #NBA']
-726,['#Sources — Pacers looking to move on from F TJ Warren &amp; C/PF Myles Turner. #NBA']
-727,['#Sources — Celtics have made G Marcus Smart available for trade. #NBA']
-728,['#Sources — #Knicks have reached out to the Spurs on the availability of PG Dejounte Murray. #NBA']
-729,['#Sources — The NBA and the Players Association have agreed to extend the play-in tournament format through the 2021-2022 season. The league’s Board of Governors will make it official in a formal vote soon. #NBA']
-730,['#Sources — Kawhi has New York as a real landing spot if team can pull trigger on Damian Lillard trade. #NBA']
-731,"[""#Sources — Damian Lillard To Address Trade Report After Friday's Team USA Practice.""]"
-732,['Sources — JaVale McGee has been selected to join the 12-man Team USA for the Tokyo Olympics. #NBA']
-733,['#Sources — Damian Lillard prefers being traded to either the New York Knicks or Philadelphia 76ers. #NBA']
-734,['#Sources — Team USA-Australia game on Friday in Las Vegas has been cancelled. #NBA']
-735,"[""#Sources — Wizards' Bradley Beal will not play in the Tokyo Olympics for Team USA. #NBA""]"
-736,['#Sources — Golden State “very interested” in trading for Raptors Forward Pascal Siakam. #NBA']
-737,['#Sources — Mavericks have shown interest in Boston G/F Jaylen Brown. #NBA']
-738,['#Sources - Free agent to be Kawhi Leonard will be taking meetings with multiple teams once free agency opens up. #NBA']
-739,['#Sources — Celtics have had internal discussions on trading for Wizards G Bradley Beal. #NBA']
-740,['#Sources — Spurs have shown interest on the Ben Simmons trade front. #NBA']
-741,['#Sources — #Knicks looking into availability of PGs De’Aaron Fox &amp; Shai Gilgeous-Alexander before moving in on Collin Sexton. #NBA']
-742,['#Sources — Denver Nuggets associate head coach Wes Unseld Jr. is emerging as the leader to be the Washington Wizards’ new head coach. #NBA']
-743,['#Sources — Los Angeles Clippers are in serious talks to hire NBA G League Ignite coach Brian Shaw as an assistant coach. #NBA']
-744,"['#Sources — Cavs, Pacers, Kings, Raptors and the Wolves are interested in Ben Simmons. #NBA']"
-745,['#Sources — Signing Lonzo Ball is the main priority for the Chicago Bulls this off-season. #NBA']
-746,['#Sources — #Lakers plan to pursue veteran wing Reggie Bullock in free agency. #NBA']
-747,['#Sources — Mavericks main priority this off-season: Trading F/C Kristaps Porzingis. #NBA']
-748,['#Sources — Raptors F Pascal Siakam is unhappy with the current direction of the team. No trade request yet. #NBA']
-749,['#Sources — Sixers are taking calls on the availability of PG Ben Simmons. #NBA']
-750,"['#Sources — John Collins is expected to receive interest from Dallas, San Antonio, Miami and Minnesota this offseason. #NBA']"
-751,['#Sources — #Knicks have emerged as serious front runners for Cavs PG Collin Sexton. #NBA']
-752,['#Sources — #Knicks have “strong interest” in upcoming Miami Heat G/F free agent Duncan Robinson. #NBA']
-753,['#Sources — OKC Thunder have received calls on the asking price for Shai Gilgeous-Alexander. Thunder have shown no indication on moving the rising star. #NBA']
-754,['#Sources — Mavericks have inquired about the asking price of OKC PG Kemba Walker. #NBA']
-755,['#Sources — Minnesota showing strong interest in Sixers PG Ben Simmons. #NBA']
-756,['#Sources — Sacramento Kings have started gauging interest from around the league for PG De’Aaron Fox. #NBA']
-757,['#Sources — Kevin Love is pursuing a buyout option with Cleveland. Love has every intention to play with the Brooklyn Nets this upcoming season. #NBA']
-758,['#Sources — Pelicans are willing to include pick #10 in a deal to move Eric Bledsoe. #NBA']
-759,['#Sources — Portland would consider moving CJ McCollum in exchange for 76ers’ PG Ben Simmons. #NBA']
-760,['#Sources — Knicks are very interested in moving into the lottery come draft night. NY has multiple assets to make such a move. #NBA']
-761,['#Sources — Kevin Love prefers to be a Brooklyn Net going into next season. #NBA']
-762,['#Sources — Chauncey Billups has reached an agreement on a five-year deal to become the head coach of the Trail Blazers. #NBA']
-763,['#Sources — Portland Trail Blazers have shown interest in Sixers PG Ben Simmons. #NBA']
-764,"['#Sources — The Pacers are hiring Rick Carlisle as head coach. Carlisle will sign a 4-year, $29 million contract. #NBA']"
-765,['#Sources — Heat will explore options for 3rd star along with Jimmy &amp; Bam. Tyler Herro will be available in trade discussions. #NBA']
-766,['#Sources — De’Aaron Fox will request a trade once the season is officially complete. #NBA']
-767,['#Sources — Jason Kidd leading candidate for #Celtics head coaching vacancy. #NBA']
-768,['#Sources — #Blazers will field offers for G CJ McCollum. #NBA']
-769,['#Sources — #Warriors are looking to add a 3rd star this off-season. Team has 2 lottery picks and James Wiseman to offer. #NBA']
-770,['#Sources — Growing optimism in #Knicks front office on chances of signing Clippers F Kawhi Leonard. #NBA']
-771,['#Sources — #Mavericks looking to move Kristaps Porzingis to Boston in exchange for G Kemba Walker. #NBA']
-772,['#Sources — Warriors &amp; Knicks considered strong favorites if Kawhi decides to leave LA. #NBA']
-773,['#Sources — DeMarcus Cousins is expected to sign a deal with the Los Angeles Clippers. #NBA']
-774,"['#Sources — The Lakers reportedly offered Dennis Schroder a 4-year, $84M extension. \n\nDennis Schroder declined.\n\n#NBA']"
-775,['#Sources — The 2021 NBA Draft will be on July 29. NBA Draft Lottery will be on June 22. Draft Combine scheduled for June 21-27. #NBA']
-776,['#Sources — Knicks have had contact with Demarcus Cousins representatives. #NBA']
-777,['#Sources — New York Knicks assistant Mike Woodson is expected to accept deal to become the next head coach of Indiana University. 6 year deal. #NBA']
-778,"['After being traded to OKC, Austin Rivers will be waived by the team, and will enter free agency. #NBA']"
-779,['#Sources — Andre Drummond will sign with the Los Angeles Lakers. Will wear #2. #NBA']
-780,"['#Sources — LaMarcus Aldridge will join the Nets on a 1-year, minimum deal. #NBA']"
-781,['#Sources — Andre Drummond has agreed to a contract buyout with the Cleveland Cavaliers and will become a free agent. #NBA']
-782,['#Sources — LaMarcus Aldridge will talk to these final teams and make a decision:\n\nMiami Heat\nLA Lakers\nLA Clippers\nBrooklyn Nets\n\n#NBA']
-783,"['#Sources — Andre Drummond will listen to pitches from the New York Knicks, Los Angeles Lakers, Los Angeles Clippers, Boston Celtics and Charlotte Hornets. #NBA']"
-784,['#Sources — Oklahoma City Thunder have waived center Meyers Leonard. #NBA']
-785,"['#Sources — The Spurs have bought out LaMarcus Aldridge, released him and he will now be a free agent. #NBA']"
-786,"[""#Sources — Pelicans asked for Frank, Knox and a 2021 first round draft pick for Lonzo. Deal was too expensive based on Lonzo's pending free agency this off season. #NBA""]"
-787,['#Sources — The Knicks are a buyout destination for Andre Drummond. \n\nKnicks have the cap space to offer Drummond a multi-year deal and keep him past this season.\n\n#NBA']
-788,"['#Sources — Jeff Teague has been traded to the Magic in the Evan Fournier trade, and Teague will be waived by Orlando. #NBA']"
-789,['#Sources — San Antonio Spurs are proceeding to buy out LaMarcus Aldridge in which he’ll become an unrestricted free agent. #NBA']
-790,['#Sources — LeBron is expected to miss 4-6 more weeks due to his ankle sprain. #NBA']
-791,['#Sources — The Golden Warriors are trading Marquese Chriss to the San Antonio Spurs for Cady Lalanne. #NBA']
-792,['#Sources — Warriors are trading Marquese Chriss to the Spurs. #NBA']
-793,['#Sources — Houston is trading Victor Oladipo to Miami. #NBA']
-794,"[""#Sources — The Hornets are acquiring Golden State's Brad Wanamaker. #NBA""]"
-795,['#Sources — The Bulls are close to a deal to send Mo Wagner to the Celtics for Daniel Theis. #NBA']
-796,['#Sources — The Cleveland Cavaliers and Andre Drummond will work out a buyout. #NBA']
-797,"[""#Sources — No Lonzo Ball trade. He's staying in New Orleans. #NBA""]"
-798,['#Sources — The Pelicans are finalizing a deal to send JJ Redick to the Mavericks. #NBA']
-799,['#Sources — Toronto is trading guard Terrence Davis to Sacramento for a future second round pick. #NBA']
-800,['#Sources — Hawks are trading Rajon Rondo to the Clippers for Lou Williams. LA is also sending two 2nd round picks. #NBA']
-801,['#Sources — The Hawks and Clippers are in serious talks on deal to send Rajon Rondo to L.A. #NBA']
-802,['#Sources — The Heat have offered Duncan Robinson in a trade package for Kyle Lowry. #NBA']
-803,['#Sources — Toronto is trading guard Matt Thomas to the Utah Jazz for a future second-round pick. #NBA']
-804,['#Sources — Lakers have offered Dennis Schroder and Kentavious Caldwell-Pope in a package for Kyle Lowry. #NBA']
-805,"[""#Sources — Two things holding up the Kyle Lowry trade: \n\nLakers won't include Talen Horton-Tucker.\nHeat won't include Tyler Herro.\n\n#NBA""]"
-806,"['#Sources — The Raptors were willing to trade Kyle Lowry to the 76ers for:\n\nTyrese Maxey\nMatisse Thybulle\n2 draft picks\n\nSixers declined, and talks have ended. \n\n#NBA']"
-807,['#Sources — #Knicks willing to take back the contract of Eric Bledsoe along with Lonzo Ball in a deal with the #Pelicans. #NBA']
-808,['#Sources — The Lakers refused to include Talen Horton-Tucker in trade talks with the Raptors for Kyle Lowry. #NBA']
-809,['#Sources — Toronto has traded Norm Powell to Portland for Gary Trent and Rodney Hood. #NBA']
-810,"[""#Sources — Philadelphia is acquiring OKC's George Hill for Tony Bradley, Terrance Fergusson and two future second-round picks, sources tell ESPN. Austin Rivers goes to OKC as part of a three-way deal. #NBA""]"
-811,['FULL TRADE DETAILS (so far)\n\nNuggets receive:\nAaron Gordon\n\nMagic receive:\nGary Harris\nRJ Hampton\n1st-round pick\n\n#NBA']
-812,['#Sources — Washington is trading Troy Brown and Mo Wagner to Chicago for Daniel Gafford and Chandler Hutchinson. #NBA']
-813,"['#Sources — The Magic and Nuggets are finalizing a deal to send Aaron Gordon to Denver, via The Athletic. #NBA']"
-814,['#Sources — #Knicks making last minute effort to acquire Magic G Evan Fournier. #NBA']
-815,['#Sources — The Bulls are still pursuing Lonzo Ball after landing Nikola Vucevic. Lauri Markannen a name to watch. #NBA']
-816,"['#Sources — The Bulls land Nikola Vucevic and Al Farouq Aminu for Otto Porter, Wendell Carter Jr., and two first-round picks. #NBA']"
-817,['#Sources — Denver acquires JaVale McGee. \n\nCleveland acquires Isaiah Hartenstein and two future protected second-round picks.\n\n#NBA']
-818,['#Sources — #Raptors are reportedly “holding up” much of the league due to “huge” asking prices for Kyle Lowry and Normal Powell. #NBA']
-819,['TRADE ALERT: #NBA \n\nPistons receive:\nCorey Joseph\nTwo 2nd-round picks\n\nKings receive:\nDelon Wright']
-820,"[""#Sources — #Knicks Considered 'Serious Potential Destination' For Andre Drummond. #NBA""]"
-821,"['#Sources — The Knicks and Austin Rivers are considering a buy-out, and the Bucks are interested in he enters free agency. #NBA']"
-822,"['#Sources — All signs are pointing to JJ Redick reaching a buy-out with the Pelicans, and signing with the Brooklyn Nets. #NBA']"
-823,['#Sources — #Lakers have reached out to Toronto on the possibility of acquiring veteran G Kyle Lowry. #NBA']
-824,['#Sources — The Pelicans spoke to the #Knicks about an Eric Bledsoe deal where they would attach a first round pick to move his contract. #NBA']
-825,['#Sources — Nuggets have offered Bol Bol in exchange for Pelicans PG Lonzo Ball. New Orleans declined. #NBA']
-826,['#Sources — Brooklyn is interested in acquiring G Norman Powell. #NBA']
-827,['#Sources — Celtics have emerged as front runners for Magic F Aaron Gordon. #NBA']
-828,"['#Sources — The Nuggets are interested in trading for Lonzo Ball, and have reportedly offered Bol Bol in early trade conversations. #NBA']"
-829,['#Sources — #Knicks have shown interest in both Lonzo Ball &amp; Vic Oladipo. #NBA']
-830,['#Sources — Warriors looking to acquire Hawks G Bogdan Bogdanovic. #NBA']
-831,['#Sources — Celtics making strong push for Magic F Aaron Gordon. #NBA']
-832,['#Sources — Magic F Aaron Gordon has requested a trade. #NBA']
-833,['#Sources — The Kings offered Marvin Bagley III to the Pistons for Saddiq Bey. Detroit declined the offer. #NBA']
-834,['#Sources — #Clippers “heavily pursuing” Pelicans PG Lonzo Ball. #NBA']
-835,['#Sources — #Knicks have reached out to Orlando on the availability of G/F Evan Fournier. #NBA']
-836,"['#Sources — #Warriors will be aggressive at this years trade deadline. Karl Towns, Vic Oladipo are two names worth monitoring. #NBA']"
-837,['#Sources — Lamarcus Aldridge prefers either Portland or the Lakers. #NBA']
-838,['#Sources — #Knicks receiving calls on the availability of PG Elfrid Payton. #NBA']
-839,"['#Sources — If bought out by Chicago, Veteran F, Otto Porter will head to Golden State. #NBA']"
-840,['#Sources — #Cavs continue to work phones in hopes of landing a deal for C Andre Drummond. Buyout last resort. Lakers &amp; Nets both interested in the veteran big man. #NBA']
-841,['#Sources — #Warriors have interest in trading for #Rockets G Victor Oladipo. #NBA']
-842,['#Sources — #Pistons &amp; F Blake Griffin have come to an agreement on a buyout. Griffin will now enter unrestricted free agency. #NBA']
-843,['#Sources — #Knicks have emerged as front runners for #Cavs big man Andre Drummond. Reports indicate a Drummond for Noel + Knox + 2023 2nd round pick scenario. #NBA']
-844,['#Sources — Golden State is expected to move on from Kelly Oubre Jr. By the trade deadline. #NBA']
-845,['#Sources — #Knicks &amp; #Bulls are closely monitoring the Karl-Anthony Towns situation in Minnesota. #NBA']
-846,['#Sources — Big man Demarcus Cousins is expected to sign with Golden State. #NBA']
-847,['#Sources — #Mavericks are very eager to move F/C Kristaps Porzingis before this months trade deadline. #NBA']
-848,['#Sources — #Clippers will make a “strong push” for Raptors veteran G Kyle Lowry. #NBA']
-849,['#Sources — #Cavaliers are looking to move both Andre Drummond &amp; Kevin Love. #NBA']
-850,['#Sources — #Pistons &amp; F Blake Griffin are expected to come to an agreement on a buyout soon. #Lakers have emerged as favorites to sign the former All-Star. #NBA']
-851,['#Sources — #Knicks will make veteran PG Elfrid Payton available in trade talks. #NBA']
-852,['#Sources — Multiple teams have reached out to the #Clippers about the availability of veteran G Lou Williams. LA is open to moving the former sixth man of the year. #NBA']
-853,['#Sources — #Brooklyn has made G Spencer Dinwiddie available in trade talks. Brooklyn is looking to add a win now piece for the injured Guard. #NBA']
-854,['#Sources — #Knicks are monitoring the Karl Anthony Towns situation in Minnesota. #NBA']
-855,['#Sources - #Heat have reached out to Houston on the type of package it would take to acquire G Victor Oladipo. #NBA']
-856,['#Sources — #Knicks &amp; #Cavs have held discussions around a trade for C Andre Drummond. #Knicks would send Noel + Knox + 2nd round pick for Drummond. #NBA']
-857,['#Sources — #Knicks have no desire to trade F Julius Randle. Team has received multiple inquiries over the past two weeks. #NBA']
-858,['#Sources — The Cleveland Cavaliers are no longer planning to play center Andre Drummond as they work to trade the two-time All-Star prior to the NBA’s March 25th deadline. #NBA']
-859,['#Sources — #Knicks are VERY interested in the services of Pelicans Vet JJ Reddick. #NBA']
-860,"['#Sources — Bucks, Clippers, Warriors among interested in New Orleans veteran G JJ Reddick. #NBA']"
-861,['#Sources — #Warriors have shown interest in NY F Julius Randle. #NBA']
-862,['#Sources — #Knicks have received interest on G Austin Rivers. #NBA']
-863,['#Sources — The Pistons are close to sending Derrick Rose to the Knicks for Dennis Smith Jr and draft compensation. #NBA']
-864,['#Sources — Warriors have interest in New Orleans veteran G JJ Redick. #NBA']
-865,['#Sources — Celtics have reached out to NY on the availability of F Julius Randle. #NBA']
-866,['#Sources — Clippers &amp; Knicks have shown interest in Detroit G Derrick Rose. #NBA']
-867,['The Dallas Mavericks retired jersey No. 24 in honor of Kobe Bryant. #NBA']
-868,"['#Sources — Mavericks, Clippers, Knicks interested in Pelicans G Lonzo Ball. #NBA']"
-869,['#Sources — #Pistons will be “HUGE sellers” during this seasons trade market. #NBA']
-870,['#Sources — #Mavericks are looking for a third star through trade to pair with Luka &amp; KP. #NBA']
-871,['#Sources — #Celtics will be very engaged in trade talks for Cavs C Andre Drummond. #NBA']
-872,['#Sources — #Knicks have no interest in trading C Mitchell Robinson. #NBA']
-873,['#Sources — Golden State is keeping an eye out on the availability of Washington G Bradley Beal. #NBA']
-874,['#Sources — Multiple teams have reached out to NYK about the availability of F Julius Randle. #Knicks have no desire to trade him at this moment. #NBA']
-875,['#Sources — #Heat very intrigued on the possibility of adding Bradley Beal. #NBA']
-876,['#Sources — #Kings have held discussions on moving on from PG D’Aaron Fox. #NBA']
-877,['#Sources — Nets G Kyrie Irving expected to receive a “multiple week” suspension from the league for violating Covid safety protocols. #NBA']
-878,['#Sources — Multiple teams have reached out to New York about the availability of F Julius Randle. #NBA']
-879,['#Sources — #Heat have no desire to move pieces for Victor Oladipo. #NBA']
-880,"['#Sources — #Wizards are fully open to moving on from Bradley Beal. Warriors, Mavericks, Knicks among teams interested. #NBA']"
-881,['#Sources — #Cavs are looking to move C Andre Drummond after acquiring Jarrett Allen from Brooklyn. #NBA']
-882,['#Sources — Kevin Durant will have to quarantine for 7 days before returning to the Nets due to close contact with COVID-19. #NBA']
-883,['#Sources - Spencer Dinwiddie will miss the rest of the season with a partially torn ACL. #Nets #NBA']
-884,['#Sources — James Harden has expanded his preferred trade destinations to the Boston Celtics and Portland Trailblazers. #NBA']
-885,['#Sources — Some of these deals are 🤯🤯 #NBA']
-886,['#Sources — Brooklyn Nets and center Jarrett Allen will not agree to a contract extension and he will be a restricted free agent at the end of the season. #NBA']
-887,"['#Sources — OG Anunoby has signed a 4-year, $72M extension with the Raptors. #NBA']"
-888,"['#Sources — Los Angeles Lakers forward Kyle Kuzma has agreed to a three-year, $40M contract extension, including a player option on 2023-2024 season. #NBA']"
-889,"['#Sources — Lonzo Ball and the Pelicans were not able to reach an extension this offseason, and Ball will enter restricted free agency next season. #NBA']"
-890,['#Sources — #Sixers willing to part with PG Ben Simmons in trade for Harden. Philly hesitant to include 3 first round picks. Interesting to see what Houston will take back. #NBA']
-891,['#Sources — #Knicks have reached out to New Orleans again on the availability of Lonzo Ball. Nothing imminent. #NBA']
-892,"['#Sources — Giannis Antetokounmpo will sign a five-year, $228M max extension with the Milwaukee Bucks. #NBA']"
-893,['#Sources — Bucks + Rockets motivated to get Harden deal done. #NBA']
-894,"['#Sources — Paul George has agreed to a 5-year, $226M max extension with the Clippers. #NBA']"
-895,['#Sources — Darryl Morey wants James Harden in Philadelphia. #NBA']
-896,"[""#Sources — James Harden has arrived in Houston and tested in accordance with the NBA's protocol today.""]"
-897,"['#Sources — James Harden has yet to arrive to #Rockets training camp and didn\'t show up to an anticipated individual workout on Sunday.\n\nHead coach Stephen Silas on when Harden would rejoin the team: ""There is no timetable, as far as I know. It is a setback."" #NBA']"
-898,"['#Sources — NBA issues bans on bars and clubs in 2020-21 health and safety guidelines. \n\nOn the road, players and staff can dine at ""approved restaurants"" outdoors or in a ""fully privatized space""\n\n#NBA']"
-899,['#Sources — #Magic are very determined to trade F Aaron Gordon. #NBA']
-900,['#Sources — The #NBA has officially suspended random marijuana testing for the 2020-21 season.']
-901,['#Sources — #Knicks have NOT inquired about #Kings G Buddy Hield. #NBA']
-902,['#Sources — Anthony Davis &amp; #Lakers agree on a 5 year / $190m contract extension. #NBA']
-903,['#Sources — Houston has agreed to trade Russell Westbrook to Washington for John Wall and a first-round pick. #NBA']
-904,['#Sources — Anthony Davis expected to sign similar deal to Lebron.']
-905,"['#Sources — Los Angeles Lakers star LeBron James has agreed to a two-year, $85 million maximum contract extension. #NBA']"
-906,['#Sources — Reggie Jackson is returning to Los Angeles. #Clippers']
-907,['#Sources — Golden State has inquired on the availability of #Rockets all-star James Harden. #NBA']
-908,['#Sources — Anthony Davis will sign a max contract extension with the #Lakers by end of day tomorrow. #NBA']
-909,['#Sources — Executives around the league believe #Clippers will trade G Lou Williams before the season starts. #NBA']
-910,"['#Sources — Brandon Ingram has agreed to a five-year, $158 million maximum contract extension with the Pelicans. #NBA']"
-911,"['#Sources — Miami Heat plan to sign All-Star Bam Adebayo to a five-year, $163M contract extension. #NBA']"
-912,['#Sources — Demarcus Cousins and the Houston Rockets come to an agreement on a 1 year deal. #NBA']
-913,"['#Sources — Free agent G Damyean Dotson has agreed to a two-year, $4M deal with the Cleveland Cavaliers. #NBA']"
-914,['#Sources — Markieff Morris has agreed to return to the Lakers on a minimum deal. #NBA']
-915,['#Sources — Some within #Clippers organization believe the team should go after Demar Derozan. #NBA']
-916,"['#Sources — Dario Saric has agreed to a three-year, $27M deal to stay with Phoenix. #NBA']"
-917,['#Sources — Marc Gasol signs 2 year deal with the #Lakers. #NBA']
-918,['#Sources — Minnesota is trading Omari Spellman and Jacob Evans and a future second-round pick to New York for F Ed Davis. #NBA']
-919,['#Sources — Free agent Austin Rivers has agreed to deal with Knicks. Deal is for one year. #NBA']
-920,['#Sources — The Knicks have emerged as a potential trade partner for the Lakers in a JaVale McGee deal. Knicks looking for additional asset to take on contract of McGee. #NBA']
-921,"['#Sources — Jayson Tatum has agreed to a five-year, $195M extension with the Celtics. #NBA']"
-922,"['#Sources — Free agent center Willie Cauley-Stein has agreed to a two-year, $8.2M deal to return to the Dallas Mavericks. #NBA']"
-923,"['#Sources — Bogdan Bogdanovic has signed his four-year, $72M offer sheet with the Hawks. Kings have 48 hours to match. #NBA']"
-924,['#Sources — #Knicks looking to be involved in salary dump from Charlotte to make room for Gordon Hayward signing. #NBA']
-925,"['#Sources — Jae Crowder will sign a three-year, $30M deal with the Suns. #NBA']"
-926,"['#Sources — Free agent Avery Bradley has agreed to a two-year, $11.6M deal with the Miami Heat. #NBA']"
-927,"['#Sources — Free agent Gordon Hayward is signing a 4-year, $120M deal with Charlotte. #NBA']"
-928,"['#Sources — Fred VanVleet has agreed to a four-year, $85M deal to re-sign with the Toronto Raptors. #NBA']"
-929,"['#Sources — Free agent guard DJ Augustin has agreed to a three-year, $21M deal with Milwaukee. #NBA']"
-930,['#Sources — #Bucks and F/C Bobby Portis reach an agreement on a deal. #NBA']
-931,"['#Sources — Free agent guard Kris Dunn has agreed to a two-year, $10M deal with the Atlanta Hawks. #NBA']"
-932,['#Sources — OKC is trading James Johnson to the Dallas Mavericks. #NBA']
-933,['#Sources — Original #Pelicans #Bucks Jrue Holiday trade will be expanding into a possible four-team trade with Steven Adams heading to New Orleans. #NBA #ThunderUp']
-934,['#Sources — #Thunder sending Steven Adams to New Orleans. #NBA']
-935,['#Sources — #Knicks have inquired about Lonzo Ball from the #Pelicans. #NBA']
-936,['#Sources — #Knicks and Carmelo Anthony have “mutual interest”. Will Rondo + Melo be the vets for the Knicks kids? #NBA']
-937,['#Sources - John Wall wants OUT of Washington. #NBA']
-938,['#Sources — #Knicks “very interested” in the services of veteran guard Rajon Rondo. #NBA']
-939,['UPDATE: Wood and #Rockets come to an agreement on a 3 year / $41 million deal. #NBA']
-940,"['#Sources — Free agent Alec Burks has agreed to a one-year, $6M deal with the New York Knicks. #NBA']"
-941,"['#Sources — Free agent forward Davis Bertans has agreed to a 5-year, $80M deal to return to the Washington Wizards. #NBA']"
-942,['#Sources — The Los Angeles #Lakers are nearing a deal with Montrezl Harrell. Big steal for the Lakers from the rival #Clippers. Reigning sixth man of the year. #NBA']
-943,['#Sources — Marc Gasol has emerged as a free-agent target for the Lakers. #NBA']
-944,"['#Sources — Christian Wood will sign a 3-year, $27M deal with the Houston #Rockets. #NBA']"
-945,['#Sources — Surprise turn of events with Dwight heading to the Philadelphia 76ers on a 1 year deal. #NBA']
-946,['They get their man #NBA https://t.co/S0hAMPklSN']
-947,['#Sources — Utah #Jazz and Derrick Favors have come to an agreement on a deal. #NBA']
-948,"['#Sources — Jordan Clarkson has agreed to a four-year, $52M deal with the Utah Jazz. #NBA']"
-949,"['#Sources — De’Aaron Fox will sign a 5-year, $163M max extension with the Sacramento Kings. #NBA']"
-950,['#Sources — #Knicks trying to engage Utah in a Julius Randle ($18.9M) for Mike Conley ($34.5M) swap. Jazz weighing options. Both expiring deals. #NBA']
-951,['#Sources — Dwight Howard headed back to the #Lakers. #NBA']
-952,['#Sources — Patrick Patterson will re-sign a 1-year deal with the Clippers. #NBA']
-953,"['#Sources — With Hayward turning attention to #Pacers, #Knicks shift focus to Christian Wood, DJ Augustine, Justin Holiday. Will still be monitoring Hayward and pacers. #NBA']"
-954,['#Sources — #Knicks in contact with Veterans DJ Augustine and Justin Holiday. #NBA']
-955,['#Sources — Wes Matthews to sign with the #Lakers #NBAFreeAgency']
-956,['#Sources — #Heat and G Goran Dragic come to an agreement on a 2 year deal to bring the veteran guard back to Miami. #NBAFreeAgency']
-957,['#Sources — ITS TIME! #NBAFreeAgency']
-958,['#Sources — #Hawks and SG Bogdan Bogdanovic will come to an agreement once free agency officially opens. #NBA']
-959,['Less than 1 hour away until NBA Free Agency opens. #NBA']
-960,['#Sources — #Serge Ibaka meeting with the Brooklyn Nets. #NBA']
-961,['#Sources — Giannis is unhappy with the way #Bucks handled Bogdan situation. #NBA']
-962,['#Sources — #Hawks and F Danilo Gallinari gaining steam. #NBA']
-963,['#Sources — #Lakers and Anthony Davis will come to an agreement on a 2 + 1 Max extension. Player option for year 3. #NBA']
-964,['#Sources — #Rockets and #Sixers have re engaged in trade talks centered around James Harden and Ben Simmons. #NBA']
-965,['#Sources — #Raptors and G Fred VanVleet will come to an agreement on a new contract come 6 PM. Details not yet disclosed. Will be north of $20 million per season. #NBA']
-966,['#Sources — #Knicks not willing to part with main assets in deal for Russ. Will look at cheaper vet options such as Jeff Teague and DJ Augustine. #NBA']
-967,['#Sources — #Hawks and #Mavericks serious landing spots for F Danilo Gallinari. #NBA']
-968,['#Sources — #Knicks will sign Gordon Hayward at 6 PM. Deal will be around 3 year/$70 million with declining salary each year.']
-969,['#Sources — #Knicks and #timberwolves in talks on S&amp;T of Malik Beasley to New York. Could be a reason for all these incoming second rounders for New York. #NBA']
-970,['#Sources — #Knicks and Gordon Hayward will reach an agreement tomorrow. #NBA']
-971,['#Sources — #Knicks want to pair Russell Westbrook with Bogdan Bogdanovic in the backcourt. #Knicks front court is set with RJ / Obi / Mitch #NBA']
-972,['#Sources — #Knicks looking to sign Sacramento Kings G Bogdan Bogdanovic in free agency.']
-973,['#Sources — #Knicks actively looking to shop Julius Randle. #NBA']
-974,['#Sources — #Klay Thompson injury viewed as “not good”. Could change the landscape of the #NBADraft']
-975,['#Sources — #Deni is rising on boards. #NBADraft']
-976,['#Sources — #Knicks have serious interest in trading up to #5 with Cleveland. Picks 8 + 23 are on the table. #Cavaliers want more. #NBADraft']
-977,"['#Sources — Houston is trading Trevor Ariza and pick #16 tonight to Detroit for a future first-round pick, sources tell ESPN. The deal gives the Rockets the freedom to use their mid-level exception in free agency. #NBA']"
-978,"['#Sources — out of left field, Mavericks are working on a sign and trade deal with the thunder for F Danilo Gallinari.']"
-979,['#Sources — #Hawks are serious contenders to sign F Danilo Gallinari. #Knicks showing interest also. ##NBA']
-980,['#Sources — #Knicks and #Warriors have engaged in talks centered around Mitchell Robinson and pick #23 for the #2 pick. #NBADraft']
-981,['#Sources — #Knicks and #Celtics in talks centered around pick #23 for Hayward and pick #14. Deal gives #Knicks two lottery picks and #Celtics cap space for free agents. #NBADraft']
-982,['#Sources— #Knicks have offered Cleveland picks #8 &amp; #23 for #5. Cleveland still holding out for more assets. #NBADraft']
-983,['#Sources — #Knicks &amp; #Wizards have held talks about a Randle and pick #23 for pick #9 swap. #NBADraft']
-984,['#Sources — #Knicks and #Hornets discussing deal that would send pick #3 to New York and picks #8 #23 and Dallas 2023 first round pick to Charlotte. Knicks select Lamelo Ball. #NBADraft']
-985,['#Sources — #Knicks looking to package 8 &amp; 23 to move up in this years NBA Draft.']
-986,"['#Sources — #Knicks monitoring Zach Lavine situation in Chicago. Depending on position drafted at #8 tomorrow, Knicks may make a run at the young SG.']"
-987,['#Sources — Hawks emerging as strong favorites for Boston’s Gordon Hayward. #NBA']
-988,['#Sources — Potential 3 team trade. Celtics acquire James Harden. Rockets acquire Jaylyn Brown + Hayward and Knicks acquire Kemba.']
-989,['#Sources — James Harden will either be a Net or a Celtic by end of week.']
-990,['#Sources — #Sixers are out of the running on James Harden. #NBA']
-991,['#Sources — #Knicks interested in Gordon Hayward if Boston attaches pick #14 in tomorrow’s NBA Draft.']
-992,"['#Sources — #Knicks have interest in signing Toronto PG Fred VanVleet. Some in organization more comfortable going after a smaller contract player. I.e, Lonzo, Conley, Rubio.']"
-993,['#Sources — #Rockets trying to pair Wall with Harden hoping that’ll make the all-star guard stay in Houston. Old friend Ariza already back in Houston.']
-994,['#Sources — Philadelphia willing to give up Ben Simmons and multiple draft picks in exchange for Rockets G James Harden.']
-995,['#Sources — #Bulls &amp; #Knicks interested in Celtics PG Kemba Walker.']
-996,['#Sources — #Rockets #Nets rumors are not true. Brooklyn remains in play but nothing close to done. Boston and Philadelphia still in the running.']
-997,['#Sources — #Knicks have reached out to the #Pelicans on a potential Lonzo Ball to New York Trade. Nothing is imminent.']
-998,['#Sources — #Rockets looking for best deal possible. Not trying to accommodate Harden to Brooklyn if Brooklyn can’t match asking price. #76ers closely monitoring.']
-999,['#Sources — Rockets deciding between Hornets and Knicks as trade partners for Westbrook. Take nothing from the Knicks and dump salary or get back Rozier and Zeller from the Hornets. #NBA']
-1000,['#Sources — #Knicks value Frank Ntilikina over DSJR. Expect a DSJR draft night trade. #NBADraft']
-1001,['#Sources — RJ Hampton draft stock rising. Potential lottery selection. #NBADraft']
-1002,['#Sources — #Hornets are ALL IN on Russell Westbrook. #NBA']
-1003,['#Sources — #Mavericks looking to add third star this off-season. Growing concern with KP injury and possibility of missing playoffs. (Mavs 2021 pick is owned by the Knicks and unprotected).']
-1004,['#Sources — #Knicks have reached out to the #Celtics on availability of Kemba Walker. Boston was shopping Kemba this week to make room for potential Jrue Holiday deal.']
-1005,"['#Sources — #Knicks willing to trade back if they can acquire an additional first round pick in the 2021 NBA Draft. Cade Cunningham, Jalen Green, Jonathan Kuminga a few notable names for next years class.']"
-1006,['#Sources — Kyle Kuzma will remain a #Laker']
-1007,['#Sources — Durant okay with trade of Kyrie if it means getting James Harden to Brooklyn. #NBA']
-1008,['#Sources — #Knicks hoping to get both Russ and Hayward for cheap. Like the idea of Russ / RJ / Hayward / Mitch together.']
-1009,['#Sources — #Knicks intrigued by F Joe Harris.']
-1010,['#Sources — #Knicks like the idea of bringing back Gallinari on a loaded 1 year deal similar to JJ Reddick with the 76ers. #NBA']
-1011,['#Sources — #Warriors willing to offer Wiggins and pick #2 for Bradley Beal. #NBA']
-1012,['#Sources — #Knicks willing to give up picks and assets FOR James Harden. #NBA']
-1013,['#Sources — Russell Westbrook will be a #Hornet unless #Knicks add picks. Will be fun to see what happens.']
-1014,['#Sources — The Boston #Celtics have emerged as string candidates for James harden. Danny ainge is all in. #NBA']
-1015,['#Sources — #Warriors and #Pistons have begun talks on a Andrew Wiggins for Blake Griffin Swap.']
-1016,['#Sources — #Knicks #Jazz gaining steam on a potential Randle for Conley and pick #23 swap.']
-1017,['#Sources — Philadelphia 76ers preparing offer for James Harden. I’m told it’s centered around Ben Simmons and atleast 2 first round picks.']
-1018,['#Sources — #Pelicans emerge as suitor for James Harden. Lonzo &amp; picks on the table for Houston. #NBA']
-1019,"['#Sources — Pelicans send Jrue Holiday to Milwaukee in exchange for George Hill, Eric Bledsoe and three (3) first round picks. Milwaukee forms big 3 of Giannis / Jrue / Middleton.']"
-1020,['#Sources — Devin Vassell rising in draft boards.']
-1021,['#Sources — if #Warriors can’t trade out of #2. Expect them to take Memphis Center James Wiseman. Potential starting 5 of Curry / Klay / Wiggins / Dray / Wiseman.']
-1022,['#Sources — Houston prefers to trade Westbrook to a team with cap space and use $$$ to build around Harden. Team is awaiting Hardens reaction.']
-1023,['#Sources — #Kings will deal Buddy Hield by end of week.']
-1024,"['#Sources — #Celtics trying to engage #Knicks in a pick 8 for 14,26,30 swap. #NBADraft']"
-1025,['#Sources — #Knicks interested in a reunion for Danilo Gallinari. Especially if Russ comes. Russ / Vassell / RJ / Gallo / Mitch starting 5?']
-1026,"['#Sources - #Celtics looking to package their 3 first round picks (14,26,30) to move into the top 10. One team to keep an eye out on... the #Knicks']"
-1027,['#Sources — James Harden will be a Brooklyn Net or 76er by Wednesday morning.']
-1028,"['#Sources — #Knicks have deal in place for Russell Westbrook. Knicks would be sending out Julius Randle, Dennis Smith Jr and pick #38 in Wednesday’s NBA Draft. Expect deal to be finalized by tomorrow night.']"
-1029,['#Sources — Brooklyn believes Caris Levert can be the third star for them but is exploring all avenues to bring in a star via trade. #NBA']
-1030,['#Sources — Derrick Rose will be a Laker by the start of next season. #Lakers #Pistons #NBA']
-1031,['#Sources — There is a 0% chance Devin Booker gets traded this offseason. Sorry Timberwolves fans 🤷🏼\u200d♂️ #NBA']
-1032,"['From earlier: The Indiana Pacers have agreed to a deal to hire Toronto assistant Nate Bjorkgren as head coach, sources tell @wojespn. #NBA']"
-1033,['#Sources — #Knicks willing to give up Mitchell Robinson to the Golden State #Warriors in exchange for the #2 pick. Earlier reports indicate GSW looking for Mitch AND pick 8. #Knicks against trading both in a package to move up. #NBA #NBADraft']
-1034,['#Sources — Utah #Jazz are looking to move on from PG mike Conley and his $34 million deal. One possible scenario people familiar with the matter say is Conley and pick #23 to the New York #Knicks for Julius Randle. Saves Utah roughly $17 million to add pieces around Mitchell.']
-1035,['#Sources — Philadelphia #sixers plan to make minimal changes to roster. Management feels confident with current group of players to right the ship with Doc rivers. Look for possible trade deadline deals if things go south. #NBA']
-=======
->>>>>>> 968471199aca72020ff0fae0db09d8cb8a7e135b
+0,#Sources — Charlotte Hornets have reached out to multiple teams in an effort to improve roster. Many in LaMelo’s camp are unhappy with the direction of the franchise and the surrounding pieces around Ball. #NBA
+1,#Sources — Phoenix in “hot pursuit” for Jazz F Bojan Bogdanovic. #NBA
+2,Danilo Gallinari has been diagnosed with a torn ACL in his left knee. The same ACL that Gallinari tore in 2013. #NBA
+3,#Sources — Cleveland Cavaliers have acquired Donovan Mitchell in a trade. #NBA
+4,#Sources - Knicks F Cam Reddish wants out of New York. Reddish who has been mentioned in trade rumors with the Lakers is looking for a larger role with a team. #NBA
+5,RJ Barrett’s contract extension with the Knicks is for 4yr/$107m with incentives that could take the deal up to $120 million. #NBA
+6,#Sources — Knicks and Jazz making progress on framework of deal that does not include RJ Barrett. Headlined by Quentin Grimes + Obi Toppin. #NBA
+7,#Sources — Markieff Morris has agreed to a one-year deal with the Brooklyn Nets. #NBA
+8,#Sources — New York Knicks guard RJ Barrett is finalizing a four-year rookie extension that could be worth up to $120 million. #NBA
+9,#Sources — Knicks are currently the only suitor in the Donovan Mitchell trade talks. Teams have realized they do not have the assets needed to make a competitive offer that surpasses what New York can offer. #NBA
+10,#Sources — Utah Jazz are trading Patrick Beverley to the Lakers for Talen Horton-Tucker. #NBA
+11,#Sources — Lakers interested in JOINING potential trade between Utah and New York as a 3rd team. LA willing to move first round picks for much needed roster depth. Something to keep an eye on as training camp quickly approaches. #NBA
+12,#Sources — Kevin Durant will remain with the Brooklyn Nets for at-least this upcoming season along with Kyrie Irving. #NBA
+13,"#Sources — Lakers &amp; LeBron James have agreed on a two-year, $97.1 million contract extension – including a player option for the 2024-2025 season. #NBA"
+14,#Sources — Knicks &amp; Jazz have re-engaged in trade talks centered around All-Star Donovan Mitchell. Utah reached out first with the hopes of getting a deal done before training camp begins in September. #NBA
+15,"#Sources — NBA’s Christmas Day matchups for this upcoming season: #NBA 
+
+Bucks at Celtics
+76ers at Knicks
+Suns at Nuggets
+Lakers at Mavericks
+Grizzlies at Warriors"
+16,"#Sources — NBA’s 2022-23 opening night and ring ceremony on TNT will feature Lakers at Warriors, Oct. 18. #NBA"
+17,#Sources — Miami Heat have been reaching out to teams to gauge the market for G Duncan Robinson. Miami looking for “any positive return.”Robinson has 4yr/$74.3m left on current deal. #NBA
+18,#Sources — Brooklyn Nets would consider moving on from head coach Steve Nash to appease superstar Kevin Durant. Sean Marks role as GM is secure. #NBA
+19,#Sources — Toronto Raptors viewed as biggest threat to acquire Brooklyn superstar Kevin Durant followed by the Boston Celtics. #NBA
+20,#Sources — Lebron James expected to sign a 1 + 1 contract extension with the Lakers before the season starts. #NBA
+21,#Sources — Lakers have tried to engage the Utah Jazz in a Russell Westbrook trade. Lakers are looking to acquire Mike Conley + Bojan Bogdanovic. Utah has no interest unless multiple draft picks are included. #NBA
+22,#Sources — NBA has begun an investigation into the New York Knicks for alleged tampering regarding free agent pickup Jalen Brunson. #NBA
+23,#Sources — Eric Paschall has agreed to a one-year deal with Minnesota. #NBA
+24,#Sources — Miami Heat planning to pivot from Kevin Durant/Donovan Mitchell trade pursuits and focus attention on acquiring Atlanta’s PF John Collins. #NBA
+25,#Sources — Juancho Hernangomez is finalizing a one-year deal with the Toronto Raptors. Bo Cruz goes north. #NBA
+26,#Sources — Raptors have emerged as a serious threat to acquire Utah’s Donovan Mitchell. Teams have started discussing parameters of a trade. #NBA
+27,"#Sources — Jazz, Knicks and Pacers have expressed interest in acquiring Russell Westbrook and draft capital from the Lakers. #NBA"
+28,"#Sources — Celtics offered Jaylen Brown, Derrick White, 1st round pick for Kevin Durant. Brooklyn countered with asking for Marcus Smart + additional draft compensation on top of original offer. #NBA"
+29,"#Sources — Carmelo Anthony is in “wait-and-see” mode in deciding his next team. Lakers have shown interest but Carmelo has been keeping tabs on New York &amp; the Knicks. If Donovan Mitchell ends up in NY, expect a Carmelo reunion to follow. #NBA"
+30,#Sources — Knicks &amp; Jazz have made “significant progress” over the last 24 hours in Donovan Mitchell trade talks but nothing has been AGREED upon yet. Both sides expect to come to an agreement within next few days as Utah understands Knicks have best package(s) available. #NBA
+31,#Sources — Hornets Restricted Free Agent Miles Bridges formally charged with felony domestic violence &amp; child abuse. #NBA
+32,#Sources — Many executives around the league believe there are too many hurdles for Miami to jump to acquire Kevin Durant from Brooklyn. Heat will continue to piece together a package but expectation league wide is Durant will start the season with the Nets. #NBA
+33,#Sources — Charlotte &amp; Indiana are discussing trade that would send Myles Turner + Buddy Hield to to Charlotte with Gordon Hayward + P.J. Washington heading to the Pacers. #NBA
+34,#Sources — Lakers have reached out to Charlotte on a Westbrook for Hayward + Rozier swap. Charlotte is asking for a Lakers future first round pick included. Both sides continue to have discussions. #NBA
+35,Keegan Murray Named 2022 NBA Summer League MVP. #NBA
+36,#Sources — Jazz put Knicks trade talks on hold while searching for “better offers elsewhere.” #NBA
+37,#Sources — Lakers have shown interest in Utah’s Jordan Clarkson. Los Angeles willing to include Talen Horton-Tucker in discussions. #NBA
+38,#Sources — Miami needs third team involved to make competitive enough offer for Utah’s Donovan Mitchell. #NBA
+39,"#Sources — RFA Deandre Ayton has agreed to a four-year, $133M maximum offer sheet with the Indiana Pacers. Phoenix has 48 hours to match. #NBA"
+40,#Sources — Jazz &amp; Knicks have held tarde discussions centered around Donovan Mitchell. Utah is looking to Acquire SG Quentin Grimes &amp; atleast FOUR 1st round picks. #NBA
+41,#Sources — Dallas has inquired on Utah’s Jordan Clarkson. Nothing imminent. #NBA
+42,"#Sources — With limited draft capital, members of Heat front office believe team will start season as currently constructed. #NBA"
+43,"New York is in a unique position with the collection of picks they’ve acquired as they can bypass the NBA’s Stepien Rule and trade consecutive first round picks. Knicks can offer teams 4 consecutive picks in ‘23, ‘24, ‘25, ‘26. #NBA https://t.co/aCvfvqCxj0"
+44,#Sources — NBA Board of Governors has approved the Transition Take Foul rule that will award the offensive team with one free throw and retaining possession starting this upcoming 2022-23 season. #NBA
+45,#Sources — Utah Jazz are now open to hearing offers for All-Star guard Donovan Mitchell. #NBA
+46,"#Knicks roster as is:
+
+PG: Brunson / Rose / McBride 
+SG: Fournier / Quickley / Grimes 
+SF: Barrett / Reddish
+PF: Randle / Toppin
+C:   Robinson / Hartenstein / Sims
+
+Is this a playoff team in the East? #NBA"
+47,Jalen Brunson to New York signing is official. Brunson will wear former Knicks’ legend Frank Ntilikina #11. #NBA
+48,#Sources — Many in Heat organization believe Brooklyn will not trade Kevin Durant. Prefer to turn attention to Donovan Mitchell. #NBA
+49,#Sources — Pacers expected to give Phoenix RFA Deandre Ayton an offer sheet as soon as tomorrow. #NBA
+50,#Sources — Utah and Cleveland are in sign-and-trade discussions that would send Collin Sexton out west to the Jazz. #NBA
+51,#Sources — Collin Sexton expected to return to Cleveland on 1 year qualifying offer. Unrestricted free agent in 2023. #NBA
+52,#Sources — Taj Gibson waived by New York. Plans to sign with Washington. #NBA
+53,#Sources — Damian Lillard has signed a two-year $122 million extension with the Portland Trail Blazers. #NBA
+54,#Sources — James Harden’s new contract with Philadelphia will be for 2yr/$67m. #NBA
+55,#Sources — Knicks continue to field calls on PG Derrick Rose. Belief is Rose will be traded by the start of training camps. #NBA
+56,#Sources — Some inside Nets front office would prefer to let Kyrie Irving sit the season than trade for “scraps.” #NBA
+57,#Sources — Knicks and two-way center Jericho Sims have agreed on a new three-year NBA contract. #NBA
+58,#Sources — Hornets have reached out to Atlanta on the availability of PF John Collins. #NBA
+59,#Sources — Charlotte has been in contact with teams in hopes of filling the void left by Miles Bridges. #NBA
+60,"#Sources — Caleb Martin has agreed to a three-year, $20-plus million deal to return to the Miami Heat. #NBA"
+61,#Sources — Lakers will look to add Eric Bledsoe. #NBA
+62,#Sources — Portland Trail Blazers plan to waive guard Eric Bledsoe ahead of his guarantee date. #NBA
+63,"#Sources — DeMarcus Cousins prefers signing with the Lakers, if promised starting Center job. #NBA"
+64,#Sources — Thomas Bryant has reached an agreement with the Los Angeles Lakers on a one-year deal. #NBA
+65,#Sources — Knicks are expected to be penalized for tampering regarding their agreement with Jalen Brunson. Could result in the loss of multiple 2nd round picks. #NBA
+66,#Sources — Serge Ibaka has agreed to a one-year deal to return to the Milwaukee Bucks. #NBA
+67,#Sources — Lakers have “touched base” with Miles Bridges. #NBA
+68,#Sources — Goran Dragic has agreed to a deal with the Chicago Bulls. #NBA
+69,"#Sources — Cleveland Cavaliers and All-Star guard Darius Garland have agreed on a five-year, $193M maximum designated rookie contract extension that could be worth as much as $231M. #NBA"
+70,#Sources — Miami Heat will make a push for both Kevin Durant &amp; Donovan Mitchell. #NBA
+71,#Sources — Utah is trading Rudy Gobert to Minnesota. #NBA
+72,"#Sources — Kevon Looney has agreed to a three-year, $25.5M deal to return to Golden State. #NBA"
+73,"#Sources — Derrick Jones Jr. has agreed to a two-year, $6.6 million deal to return to the Chicago Bulls. Player option for second season. #NBA"
+74,"#Sources — Indiana Pacers are trading guard Malcolm Brogdon to the Boston Celtics. Boston is sending Daniel Theis, Aaron Nesmith and a 2023 first-round pick. #NBA"
+75,#Sources — John Wall officially agrees with the Clippers on a two-year deal for the taxpayer midlevel. #NBA
+76,#Sources — Minnesota &amp; Utah in trade talks centered around Rudy Gobert. #NBA
+77,"#Sources — Jusuf Nurkic has agreed on a new four-year, $70 million deal to stay with the Portland Trail Blazers. #NBA"
+78,"#Sources — Zach LaVine has agreed to a five-year, $215.2 million maximum contract to return to the Chicago Bulls. Player option in year 5. #NBA"
+79,#Sources — Danilo Gallinari plans to sign with the Boston Celtics once clearing waivers. #NBA
+80,#Sources — Theo Pinson is returning to the Dallas Mavericks on a one-year deal. #NBA
+81,"#Sources — Mitchell Robinson has agreed on a new four-year, $60 million contract to stay with the New York Knicks. #NBA"
+82,"#Sources — Bruce Brown has agreed to a 2-year, $13M+ deal with the Denver Nuggets. #NBA"
+83,#Sources — Ricky Rubio is nearing a deal on a return to the Cleveland Cavaliers. #NBA
+84,#Sources — Zion Williamson is nearing a five-year rookie max contract extension worth up to $231 million. #NBA
+85,"#Sources — Gary Payton II is finalizing a three-year, $28 million deal with the Portland Trail Blazers. #NBA"
+86,"#Sources — Memphis Grizzlies and Ja Morant agree on a five-year, $193M designated rookie maximum extension that could become worth $231M. #NBA"
+87,#Sources — Nikola Jokic contract details: 5 year / $270M. Largest deal in NBA history. #NBA
+88,"#Sources — Phoenix Suns and Devin Booker agree on a four-year, $224M super max extension. #NBA"
+89,"#Sources — Minnesota Timberwolves and Karl-Anthony Towns agreed on a four-year, $224M super max extension. #NBA"
+90,#Sources — Jalen Brunson’s $104 million deal with the Knicks expected to descend annually. Starting slightly above $28m in year one and ending just below $24m in year four (25-26). #NBA
+91,#Sources — Andre Drummond is finalizing a deal with the Chicago Bulls. #NBA
+92,"#Sources — Brooklyn Nets want ""at least two All-Stars"" in exchange for Kevin Durant. #NBA"
+93,"#Sources — Kyle Anderson has agreed to a two-year, $18M deal to join the Timberwolves. #NBA"
+94,"#Sources — Delon Wright has agreed to a two-year, $16 million deal to sign with the Washington Wizards. #NBA"
+95,"#Sources — Orlando Magic and Guard Gary Harris have agreed on a two-year, $26 million contract extension. #NBA"
+96,"#Sources — Kevin Knox has agreed to a two-year, $6 million deal with the Detroit Pistons. #NBA"
+97,#Sources — Anthony Gill is signing a two year-deal with the Washington Wizards. #NBA
+98,#Sources — JaVale McGee has reached an agreement with the Dallas Mavericks. #NBA
+99,#Sources — Juan Tuscano-Anderson has reached an agreement with the Los Angeles Lakers. #NBA

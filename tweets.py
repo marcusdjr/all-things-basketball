@@ -12,8 +12,7 @@ os.chdir(sys.path[0])
 
 #twitter filter
 query = "(#Sources, OR #NBA) (from:NbaTradeReport)"
-tweets = ["Trade","Trades","trade","trades","Blockbuster Trade","blockbuster trade","Blockbuster trade","blockbuster Trade",
-          "Trading","Deal","Free Agent", "FA", "Sign", "Signing","sign", "Signing"]
+tweets = []
 limit = 100
 
 
