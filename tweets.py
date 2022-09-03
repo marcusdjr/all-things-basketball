@@ -7,6 +7,7 @@ import pandas as pd
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import sys, os
 from os import path
+from stopwords import stopwords_list
 os.chdir(sys.path[0])
 
 #twitter filter
@@ -35,10 +36,8 @@ text = open('tweets.csv', mode='r', encoding='utf-8').read()
 
 #STOPWORDS
 nba_logo = np.array(Image.open(path.join( "NBA-icon.png")))
-stopwords = set(STOPWORDS)
-stopwords.add("Sources")
-stopwords.add("NBA")
-
+# stopwords = ["https", "co", "RT","NBA","Sources","Offer","the","to"]
+stopwords = stopwords_list
 
 wc = WordCloud(background_color="white", max_words=2000, mask=nba_logo,
     stopwords=stopwords, max_font_size=40, random_state=42, repeat= False)
@@ -52,3 +51,4 @@ wc.recolor(color_func=image_colors)
 
 #storing word cloud to file
 wc.to_file('wordcloud_output.png')
+
