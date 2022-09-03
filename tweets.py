@@ -1,10 +1,8 @@
 from operator import contains
-from timeit import repeat
 import snscrape.modules.twitter as sntwitter
 from PIL import Image
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import sys, os
 from os import path
