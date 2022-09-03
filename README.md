@@ -1,6 +1,7 @@
-# all-things-basketball 
+# NBA Trade Tracker
 
-# Two friends creating NBA trade trackers and structuring data in real time
-![wcloud](https://user-images.githubusercontent.com/31329300/188287695-bc362c38-ce52-4105-9bb5-0a59af8e4a42.png)
+![wordcloud_output](https://user-images.githubusercontent.com/31329300/188287913-7ae00512-ec53-4f63-83f6-32f85c80c844.png)
+
+Two friends creating a real time NBA Trade Tracker that tracks teams in trade discussions, and players that have either been traded or that are also trade discussions.
 
     
