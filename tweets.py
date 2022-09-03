@@ -35,6 +35,7 @@ text = open('tweets.csv', mode='r', encoding='utf-8').read()
 #STOPWORDS
 nba_logo = np.array(Image.open(path.join( "NBA-icon.png")))
 stopwords = set(STOPWORDS)
+stopwords.add("Sources")
 stopwords.add("NBA")
 
 
