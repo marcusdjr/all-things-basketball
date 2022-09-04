@@ -19,7 +19,7 @@
 - Uses image color generator to make the wordcloud presentable
 - uses data in csv to populate the word cloud with relevant information
 
-![Alt Text](https://media.giphy.com/media/cS2ToCXjcdVnBdmhHR/giphy.gif)
+![Alt Text](https://media.giphy.com/media/ZWYkRxLA22P0RZgnUg/giphy.gif)
 
 
 
