@@ -6,7 +6,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
->NBA Trade Word Cloud was made by  [Me](https://github.com/TatoSec) and my childhood friend [Marcus](https://github.com/marcusdjr). This program web scrapes data from twitter using hashtags and user:id, stores it in a csv file which is then used to create a word cloud that contains mostly NBA players names and teams that are involved.
+>NBA Trade Word Cloud was made by  [Ivan](https://github.com/TatoSec) and [Marcus](https://github.com/marcusdjr) two childhood friends. This program web scrapes data from twitter using hashtags and user:id, stores it in a csv file which is then used to create a word cloud that contains mostly NBA players names and teams that are involved.
 
 - Python
 - Visual Studio Code
