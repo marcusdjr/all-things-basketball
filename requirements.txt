@@ -6,3 +6,7 @@ pip install pandas
 pip install wordcloud
 
 pip install matplotlib
+
+pip install PIL
+
+
