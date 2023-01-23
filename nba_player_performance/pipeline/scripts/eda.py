@@ -36,8 +36,22 @@ product = None
 
 # %%
 import pandas as pd
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+# # %matplotlib inline
+import matplotlib.pyplot as plt  # Matlab-style plotting
+import seaborn as sns
 stats = pd.read_csv(upstream['clean']['data'])
 
 # %%
+stats.head(10)
+
+# %%
+plt.bar(stats.Position,stats.PTS)
+plt.title('Positions that score the most points')
+
+# %%
+plt.bar(stats.Position,stats.ORB)
+plt.title('Positions that gets the most Rebounds')
 
 # %%
