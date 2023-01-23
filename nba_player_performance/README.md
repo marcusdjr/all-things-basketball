@@ -1,4 +1,6 @@
 # NBA Player Performance
+![Player_Metrics](https://user-images.githubusercontent.com/31329300/213966045-e058ca6f-eb44-4a00-992f-7679ec0a3624.png)
+
 >This NBA Player Performance project involves scraping data from the internet, cleaning and analyzing the data, building a predictive model, and deploying it as a web application. The goal of the project is to use historical data to make predictions about future player performance.
 
 ## Steps
