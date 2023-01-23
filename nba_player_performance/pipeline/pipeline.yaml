@@ -4,6 +4,11 @@ tasks:
   product:
     data: products/get.csv
     nb: products/get.ipynb
+
+- source: scripts/clean.py
+  product:
+    data: products/clean.csv
+    nb: products/clean.ipynb
   
 - source: scripts/eda.py
   product:

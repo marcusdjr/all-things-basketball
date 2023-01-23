@@ -37,3 +37,8 @@ product = None
 # %%
 import pandas as pd
 stats = pd.read_csv(upstream['get']['data'])
+
+# %%
+stats.isnull().sum()
+
+# %%
