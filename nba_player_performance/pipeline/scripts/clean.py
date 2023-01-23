@@ -28,7 +28,7 @@
 # %% tags=["parameters"]
 # If this task has dependencies, list them them here
 # (e.g. upstream = ['some_task']), otherwise leave as None.
-upstream = ['clean']
+upstream = ['get']
 
 # This is a placeholder, leave it as None
 product = None
@@ -36,9 +36,18 @@ product = None
 
 # %%
 import pandas as pd
-stats = pd.read_csv(upstream['clean']['data'])
+stats = pd.read_csv(upstream['get']['data'])
 
 # %%
-stats(20)
+stats.isnull().sum()
+
+# %%
+stats = stats.dropna()
+
+# %%
+stats.isnull().sum()
+
+# %%
+stats.to_csv(product['data'], index=False)
 
 # %%
