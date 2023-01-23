@@ -39,6 +39,5 @@ import pandas as pd
 stats = pd.read_csv(upstream['clean']['data'])
 
 # %%
-stats(20)
 
 # %%
