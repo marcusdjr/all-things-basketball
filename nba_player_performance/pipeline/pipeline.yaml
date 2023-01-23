@@ -2,8 +2,8 @@
 tasks:
 - source: scripts/get.py
   product:
-    nb: products/get.ipynb
     data: products/get.csv
+    nb: products/get.ipynb
   
 - source: scripts/eda.py
   product:

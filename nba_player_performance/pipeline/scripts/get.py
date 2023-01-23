@@ -69,3 +69,6 @@ print("Data saved to player_stats.csv")
 stats.head(20)
 
 # %%
+stats.to_csv(product['data'], index=False)
+
+# %%
