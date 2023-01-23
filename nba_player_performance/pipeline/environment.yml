@@ -1,0 +1,15 @@
+name: pipeline
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pip
+  - pip:
+    - ploomber
+    - pandas
+    - scikit-learn
+    # if using S3...
+    # - boto3
+    # if using Google Cloud Storage...
+    # - google-cloud-storage
