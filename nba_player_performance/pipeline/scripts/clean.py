@@ -59,12 +59,15 @@ stats_56 = pd.read_csv('player_stats_56.csv')
 stats_56.isnull().sum()
 
 # %%
-stats_56 = stats_56.dropna()
+stats_56 = stats_56.dropna(how='all')
 
 # %%
 stats_56.isnull().sum()
 
 # %%
 stats_56.head(20)
+
+# %%
+stats_56.to_csv('player_stats_56.csv')
 
 # %%
