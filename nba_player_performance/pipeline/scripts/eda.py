@@ -92,3 +92,8 @@ plt.bar(stats.Position,stats.twoP)
 plt.title('Positions that had the most 2 pointers made per game for the 2022 season')
 
 # %%
+plt.figure(figsize=(10, 5))
+plt.bar(stats.Age,stats.PTS)
+plt.title('Age that players score the most points in the 2022 season')
+
+# %%
