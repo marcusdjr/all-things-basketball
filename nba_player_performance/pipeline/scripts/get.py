@@ -151,5 +151,12 @@ headers = headers[1:]
 headers
 # avoid the first header row
 rows = soup.findAll('tr')[1:]
-player_stats_79 = [[td.getText() for td in rows[i].findAll('td')]
+player_stats_95 = [[td.getText() for td in rows[i].findAll('td')]
             for i in range(len(rows))]
+
+# %%
+stats_95 = pd.DataFrame(player_stats_95, columns=["Player Name", "Position","Age","Team","G","GS","MP","FG","FGA","FGP","threeP","threePA","threePP","twoP","twoPA","twoPP","eFGP","FT","FTA","FTP","ORB","DRB","TRB","AST","STL","BLK","TOV","PF","PTS"])
+#Printing to CSV
+stats_95.to_csv("player_stats_95.csv", index=False)
+print("Data saved to player_stats_95.csv")
+stats_95.head(20)
