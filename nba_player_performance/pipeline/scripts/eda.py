@@ -82,3 +82,8 @@ plt.bar(stats.Position,stats.BLK)
 plt.title('Positions that had the blocks per game for the 2022 season')
 
 # %%
+plt.figure(figsize=(10, 5))
+plt.bar(stats.Position,stats.threeP)
+plt.title('Positions that had the most 3 pointers made per game for the 2022 season')
+
+# %%
