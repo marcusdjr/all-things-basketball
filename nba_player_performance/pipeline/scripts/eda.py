@@ -118,9 +118,21 @@ plt.figure(figsize=(10, 5))
 plt.bar(stats_56.Position,stats_56.PTS)
 plt.title('Positions that scored the most points per game for the 1956 season')
 
+plt.xlabel("Position")
+plt.ylabel("Points Per Game")
+
 # %%
 plt.figure(figsize=(10, 5))
 plt.bar(stats_56.Position,stats_56.FGP)
 plt.title('Positions with the highest field goal percentage for the 1956 season')
+
+plt.xlabel("Position")
+plt.ylabel("Field Goal Percentage")
+
+# %%
+stats_56.PTS.plot.hist(bins=5)
+
+# %%
+stats_22.threePA.plot.hist(bins=30)
 
 # %%
