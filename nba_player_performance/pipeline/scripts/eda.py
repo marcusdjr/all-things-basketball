@@ -78,5 +78,7 @@ plt.title('Positions that had the most steals per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.ORB)
-plt.title('Positions that had the most offensive rebounds per game for the 2022 season')
+plt.bar(stats.Position,stats.BLK)
+plt.title('Positions that had the blocks per game for the 2022 season')
+
+# %%
