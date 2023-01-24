@@ -35,70 +35,92 @@ product = None
 
 
 # %%
+#Notes 
+#Over the years, teams and analysts have started using advanced metrics to evaluate player performance. This has led to a deeper understanding of the game and has changed the way teams evaluate and build their rosters.
+
+#The average number of points per game for NBA players has increased over time. This can be attributed to an increase in the pace of play, more efficient offenses, and a greater emphasis on three-point shooting.
+
+# %%
 import pandas as pd
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 # # %matplotlib inline
 import matplotlib.pyplot as plt  # Matlab-style plotting
 import seaborn as sns
-stats = pd.read_csv(upstream['clean']['data'])
+stats_22 = pd.read_csv(upstream['clean']['data'])
 
 # %%
-stats.head(10)
+stats_22.head(10)
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.PTS)
+plt.bar(stats_22.Position,stats_22.PTS)
 plt.title('Positions that scored the most points per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.ORB)
+plt.bar(stats_22.Position,stats_22.ORB)
 plt.title('Positions that had the most offensive rebounds per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.DRB)
+plt.bar(stats_22.Position,stats_22.DRB)
 plt.title('Positions that had the most defensive rebounds per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.FTA)
+plt.bar(stats_22.Position,stats_22.FTA)
 plt.title('Positions that had the most freethrow attempts per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.AST)
+plt.bar(stats_22.Position,stats_22.AST)
 plt.title('Positions that had the most assist per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.STL)
+plt.bar(stats_22.Position,stats_22.STL)
 plt.title('Positions that had the most steals per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.BLK)
+plt.bar(stats_22.Position,stats_22.BLK)
 plt.title('Positions that had the blocks per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.threeP)
+plt.bar(stats_22.Position,stats_22.threeP)
 plt.title('Positions that had the most 3 pointers made per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Position,stats.twoP)
+plt.bar(stats_22.Position,stats_22.twoP)
 plt.title('Positions that had the most 2 pointers made per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Age,stats.PTS)
+plt.bar(stats_22.Age,stats_22.PTS)
 plt.title('Age that players scored the most points in the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
-plt.bar(stats.Age,stats.FGP)
+plt.bar(stats_22.Age,stats_22.FGP)
 plt.title('Age that players had the highest field goal percentage')
+
+# %%
+#1956 Season EDA
+
+# %%
+stats_56 = pd.read_csv('player_stats_56.csv')
+
+# %%
+plt.figure(figsize=(10, 5))
+plt.bar(stats_56.Position,stats_56.PTS)
+plt.title('Positions that scored the most points per game for the 1956 season')
+
+# %%
+plt.figure(figsize=(10, 5))
+plt.bar(stats_56.Position,stats_56.FGP)
+plt.title('Positions with the highest field goal percentage for the 1956 season')
 
 # %%
