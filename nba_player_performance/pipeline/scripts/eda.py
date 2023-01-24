@@ -130,6 +130,18 @@ plt.xlabel("Position")
 plt.ylabel("Field Goal Percentage")
 
 # %%
+#1979 Season
+
+# %%
+stats_56 = pd.read_csv('player_stats_56.csv')
+
+# %%
+stats_22.threePA.plot.hist(bins=30)
+
+# %%
+#1995 Season
+
+# %%
 stats_56.PTS.plot.hist(bins=5)
 
 # %%

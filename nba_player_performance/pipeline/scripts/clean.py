@@ -71,3 +71,35 @@ stats_56.head(20)
 stats_56.to_csv('player_stats_56.csv')
 
 # %%
+#1979 season
+stats_79 = pd.read_csv('player_stats_79.csv')
+
+# %%
+stats_79.isnull().sum()
+
+# %%
+stats_79 = stats_79.dropna()
+
+# %%
+stats_79.isnull().sum()
+
+# %%
+stats_79.head(20)
+
+# %%
+#1995 season
+stats_95 = pd.read_csv('player_stats_95.csv')
+
+# %%
+stats_95.isnull().sum()
+
+# %%
+stats_95 = stats_95.dropna()
+
+# %%
+stats_95.isnull().sum()
+
+# %%
+stats_95.head(20)
+
+# %%
