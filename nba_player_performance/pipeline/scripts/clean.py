@@ -36,18 +36,35 @@ product = None
 
 # %%
 import pandas as pd
+#2022 season
 stats_22 = pd.read_csv(upstream['get']['data'])
 
 # %%
 stats_22.isnull().sum()
 
 # %%
-stats = stats.dropna()
+stats_22 = stats_22.dropna()
 
 # %%
-stats.isnull().sum()
+stats_22.isnull().sum()
 
 # %%
-stats.to_csv(product['data'], index=False)
+stats_22.to_csv(product['data'], index=False)
+
+# %%
+#1956 season
+stats_56 = pd.read_csv('player_stats_56.csv')
+
+# %%
+stats_56.isnull().sum()
+
+# %%
+stats_56 = stats_56.dropna()
+
+# %%
+stats_56.isnull().sum()
+
+# %%
+stats_56.head(20)
 
 # %%
