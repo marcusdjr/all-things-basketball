@@ -49,7 +49,7 @@ stats.head(10)
 # %%
 plt.figure(figsize=(10, 5))
 plt.bar(stats.Position,stats.PTS)
-plt.title('Positions that scored the most points for the 2022 season')
+plt.title('Positions that scored the most points per game for the 2022 season')
 
 # %%
 plt.figure(figsize=(10, 5))
@@ -67,3 +67,16 @@ plt.bar(stats.Position,stats.FTA)
 plt.title('Positions that had the most freethrow attempts per game for the 2022 season')
 
 # %%
+plt.figure(figsize=(10, 5))
+plt.bar(stats.Position,stats.AST)
+plt.title('Positions that had the most assist per game for the 2022 season')
+
+# %%
+plt.figure(figsize=(10, 5))
+plt.bar(stats.Position,stats.STL)
+plt.title('Positions that had the most steals per game for the 2022 season')
+
+# %%
+plt.figure(figsize=(10, 5))
+plt.bar(stats.Position,stats.ORB)
+plt.title('Positions that had the most offensive rebounds per game for the 2022 season')
