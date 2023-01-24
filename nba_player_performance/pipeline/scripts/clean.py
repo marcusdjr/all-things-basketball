@@ -36,10 +36,10 @@ product = None
 
 # %%
 import pandas as pd
-stats = pd.read_csv(upstream['get']['data'])
+stats_22 = pd.read_csv(upstream['get']['data'])
 
 # %%
-stats.isnull().sum()
+stats_22.isnull().sum()
 
 # %%
 stats = stats.dropna()
