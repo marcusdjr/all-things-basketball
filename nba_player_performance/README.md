@@ -15,6 +15,6 @@
 
 ## Exploratory data analysis
 
-![NBA Project- players that scored the most points throughout the decades](https://user-images.githubusercontent.com/31329300/214642688-ad0f2d1a-aab0-4206-8a50-ee1c93e22f8c.png)
+![NBA Project- players that scored the most points throughout the decades](https://user-images.githubusercontent.com/31329300/214647282-1941133b-0a78-4bf1-b3a4-3ea087c5dd3f.png)
 
->Positions that scored the most points throughout the years
+>Positions that scored the most points per game between 4 different seasons since the inception of the nba, showcasing the evolution of player performance.
