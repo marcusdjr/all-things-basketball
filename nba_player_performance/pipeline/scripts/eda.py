@@ -111,6 +111,9 @@ plt.title('Age that players had the highest field goal percentage')
 #1956 Season EDA
 
 # %%
+stats_56.PTS.plot.hist(bins=5)
+
+# %%
 stats_56 = pd.read_csv('player_stats_56.csv')
 
 # %%

@@ -12,3 +12,9 @@
 - Step three, after EDA, a machine learning model is built using the data. The model is trained on a portion of the data and then tested on a separate portion to evaluate its performance. Hyperparameter tuning is done to fine-tune the model's parameters.
 
 - Step four, the model is deployed as a web application, which allows users to input data and receive predictions from the model.
+
+## EDA
+
+![NBA Project- players that scored the most points throughout the decades](https://user-images.githubusercontent.com/31329300/214642688-ad0f2d1a-aab0-4206-8a50-ee1c93e22f8c.png)
+
+>Positions that scored the most points throughout the years
