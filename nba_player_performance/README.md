@@ -13,7 +13,7 @@
 
 - Step four, the model is deployed as a web application, which allows users to input data and receive predictions from the model.
 
-## EDA
+## Exploritory Data Analysis
 
 ![NBA Project- players that scored the most points throughout the decades](https://user-images.githubusercontent.com/31329300/214642688-ad0f2d1a-aab0-4206-8a50-ee1c93e22f8c.png)
 
