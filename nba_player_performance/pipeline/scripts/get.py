@@ -132,6 +132,8 @@ print("Data saved to player_stats_79.csv")
 stats_79.head(20)
 
 # %%
+
+# %%
 #Season of 1995
 # NBA season we will be analyzing
 year = 1995
