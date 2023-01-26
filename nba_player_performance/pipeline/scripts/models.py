@@ -49,7 +49,7 @@ stats.dtypes
 stats.columns
 
 # %%
-X = stats[['FG','FGP','threeP','threePA','twoP','twoPA','twoPP']]
+X = stats[['threePA','MP']]
 
 # %%
 y = stats['PTS']
@@ -64,6 +64,9 @@ from sklearn.linear_model import LinearRegression
 # %%
 lm = LinearRegression()
 lm.fit(X_train,y_train)
+
+# %%
+model = lm
 
 # %%
 predictions = lm.predict(X_test)
@@ -82,6 +85,21 @@ print (mae)
 print (r2)
 
 # %%
-predictions
+from joblib import dump
+
+# Save the model
+dump(model, 'model.joblib')
+
+# %%
+from flask import Flask, request, jsonify
+
+app = Flask(__name__)
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    data = request.get_json()
+    # pass the data to the model and make the prediction
+    prediction = model.predict(data)
+    return jsonify(prediction)
 
 # %%
