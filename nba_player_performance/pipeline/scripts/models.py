@@ -39,13 +39,20 @@ import pandas as pd
 stats = pd.read_csv(upstream['features']['data'])
 
 # %%
+stats = stats.drop(['Player Name', 'Position', 'Team'], axis=1)
+
+# %%
+stats.dtypes
+
+
+# %%
 stats.columns
 
 # %%
-X = stats[['FG','FGP','threeP','threePA','twoP','twoPA','twoPP','PTS']]
+X = stats[['FG','FGP','threeP','threePA','twoP','twoPA','twoPP']]
 
 # %%
-y = stats['projected_points_per_game']
+y = stats['PTS']
 
 # %%
 from sklearn.model_selection import train_test_split
@@ -55,21 +62,26 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 from sklearn.linear_model import LinearRegression
 
 # %%
-from fancyimpute import MICE
-
-# Select the column 'projected_points_per_game' from the dataset
-X = df[['projected_points_per_game']]
-
-# Create an instance of the MICE class
-mice = MICE()
-
-# Perform the imputation
-imputed_data = mice.complete(X)
+lm = LinearRegression()
+lm.fit(X_train,y_train)
 
 # %%
-#lm = LinearRegression()
-#lm.fit(X_train,y_train)
+predictions = lm.predict(X_test)
 
 # %%
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+
+# %%
+mse = mean_squared_error(y_test, predictions)
+mae = mean_absolute_error(y_test, predictions)
+r2 = r2_score(y_test, predictions)
+
+# %%
+print (mse)
+print (mae)
+print (r2)
+
+# %%
+predictions
 
 # %%
