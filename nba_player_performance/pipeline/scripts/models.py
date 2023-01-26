@@ -49,7 +49,7 @@ stats.dtypes
 stats.columns
 
 # %%
-X = stats[['threePA','MP']]
+X = stats[['FGA']]
 
 # %%
 y = stats['PTS']
