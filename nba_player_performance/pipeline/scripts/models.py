@@ -85,10 +85,41 @@ print (mae)
 print (r2)
 
 # %%
+from flask import Flask, request
+
+app = Flask(__name__)
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    data = request.get_json()
+    # pass the data to your model
+    prediction = model.predict(data)
+    return prediction
+
+if __name__ == '__main__':
+    app.run()
+
+# %%
+app.run(host='0.0.0.0', port=8000)
+
+# %%
 from joblib import dump
 
 # Save the model
 dump(model, 'model.joblib')
+
+# %%
+from python:3.8-slim
+
+COPY requirements.txt .
+RUN pip install -r requirements.txt
+
+COPY . .
+
+ENV FLASK_APP=app.py
+
+CMD ["flask", "run", "--host=0.0.0.0"]
+
 
 # %%
 from flask import Flask, request, jsonify
