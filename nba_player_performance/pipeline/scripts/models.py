@@ -28,11 +28,48 @@
 # %% tags=["parameters"]
 # If this task has dependencies, list them them here
 # (e.g. upstream = ['some_task']), otherwise leave as None.
-upstream = ['clean']
+upstream = ['features']
 
 # This is a placeholder, leave it as None
 product = None
 
 
 # %%
-stats = pd.read_csv(upstream['clean']['data'])
+import pandas as pd
+stats = pd.read_csv(upstream['features']['data'])
+
+# %%
+stats.columns
+
+# %%
+X = stats[['FG','FGP','threeP','threePA','twoP','twoPA','twoPP','PTS']]
+
+# %%
+y = stats['projected_points_per_game']
+
+# %%
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=101) 
+
+# %%
+from sklearn.linear_model import LinearRegression
+
+# %%
+from fancyimpute import MICE
+
+# Select the column 'projected_points_per_game' from the dataset
+X = df[['projected_points_per_game']]
+
+# Create an instance of the MICE class
+mice = MICE()
+
+# Perform the imputation
+imputed_data = mice.complete(X)
+
+# %%
+#lm = LinearRegression()
+#lm.fit(X_train,y_train)
+
+# %%
+
+# %%

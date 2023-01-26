@@ -47,3 +47,6 @@ stats['projected_points_per_game'] = np.nan
 stats.head(19)
 
 # %%
+stats.to_csv(product['data'], index=False)
+
+# %%
