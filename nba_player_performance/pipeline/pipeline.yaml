@@ -17,6 +17,7 @@ tasks:
 - source: scripts/features.py
   product: 
     nb: products/features.ipynb
+    data: products/features.csv
 
 - source: scripts/models.py
   product: 
