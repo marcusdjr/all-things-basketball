@@ -1,5 +1,6 @@
 import numpy as np
 from flask import Flask, request, render_template
+from flask import Flask,request, url_for, redirect, render_template
 import pickle
 
 #Create an app object using the Flask class. 
@@ -17,7 +18,7 @@ model = pickle.load(open('models/model.pkl', 'rb'))
 #use the route() decorator to tell Flask what URL should trigger our function.
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('new.html')
 
 #You can use the methods argument of the route() decorator to handle different HTTP methods.
 #GET: A GET message is send, and the server returns data
@@ -33,7 +34,7 @@ def predict():
 
     output = round(prediction[0]) #, 2)
 
-    return render_template('index.html', prediction_text='Players Points Per Game {}'.format(output))
+    return render_template('new.html', prediction_text='Player Should Be Scoring {} Points Per Game'.format(output))
 
 
 #When the Python interpreter reads a source file, it first defines a few special variables. 
