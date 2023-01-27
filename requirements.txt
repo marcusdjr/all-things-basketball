@@ -1,4 +1,5 @@
 aiohttp==3.7.4.post0
+pyproj==2.6.1.post1
 ansi2html==1.8.0
 ansiwrap==0.8.4
 anyio==3.6.1
