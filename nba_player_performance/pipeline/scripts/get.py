@@ -5,7 +5,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.14.0
+#       jupytext_version: 1.14.4
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -162,3 +162,39 @@ stats_95 = pd.DataFrame(player_stats_95, columns=["Player Name", "Position","Age
 stats_95.to_csv("player_stats_95.csv", index=False)
 print("Data saved to player_stats_95.csv")
 stats_95.head(20)
+
+# %%
+#Play by play nba stats
+
+
+
+# %%
+# NBA season we will be analyzing
+year = 2023
+# URL page we will scraping (see image above)
+url = "https://www.nba.com/stats/lineups/traditional?slug=traditional&ShotClockRange=&Period=4&PerMode=PerPlay".format(year)
+# this is the HTML from the given URL
+html = urlopen(url)
+soup = BeautifulSoup(html)
+
+# %%
+# use findALL() to get the column headers
+soup.findAll('tr', limit=2)
+# use getText()to extract the text we need into a list
+headers = [td.getText() for td in soup.findAll('tr', limit=2)]
+# exclude the first column because we will not need the ranking order from Basketball Reference for the analysis
+##headers = headers[1:]
+##headers
+# avoid the first header row
+##rows = soup.findAll('tr')[1:]
+play_by_play_23 = [[td.getText() for td in rows[i].findAll('td')]
+            for i in range(len(rows))]
+
+# %%
+play_by_play_23 = pd.DataFrame(play_by_play_23, columns=["Player Name", "Position","Age","Team","G","GS","MP"])
+#Printing to CSV
+play_by_play_23.to_csv("play_by_play_23.csv", index=False)
+print("Data saved to play_by_play_23.csv")
+play_by_play_23.head()
+
+# %%
