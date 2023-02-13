@@ -104,7 +104,9 @@ stats_95.head(20)
 
 # %%
 #2022 season play-by-play stats
-pbpstats_22 = pd.read_csv('pbp_player_stats_2022.csv')
+import pandas as pd
+#2022 season
+pbpstats_22 = pd.read_csv(upstream['get']['data'])
 
 # %%
 pbpstats_22.isnull().sum()
@@ -119,3 +121,4 @@ pbpstats_22.isnull().sum()
 pbpstats_22.head(20)
 
 # %%
+stats_95.to_csv(product['data'], index=False)

@@ -5,7 +5,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.14.0
+#       jupytext_version: 1.14.4
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -40,13 +40,6 @@ import numpy as np
 stats = pd.read_csv(upstream['clean']['data'])
 
 # %%
-#Adding a new column because this is the feature im going to predict
-stats['projected_points_per_game'] = np.nan
-
-# %%
-stats.head(19)
-
-# %%
-stats.to_csv(product['data'], index=False)
+stats.head(20)
 
 # %%
