@@ -103,3 +103,19 @@ stats_95.isnull().sum()
 stats_95.head(20)
 
 # %%
+#2022 season play-by-play stats
+pbpstats_22 = pd.read_csv('pbp_player_stats_2022.csv')
+
+# %%
+pbpstats_22.isnull().sum()
+
+# %%
+pbpstats_22 = pbpstats_22.dropna()
+
+# %%
+pbpstats_22.isnull().sum()
+
+# %%
+pbpstats_22.head(20)
+
+# %%

@@ -63,6 +63,7 @@ player_stats = [[td.getText() for td in rows[i].findAll('td')]
             for i in range(len(rows))]
 
 # %%
+stats_22 = player_stats_22.csv
 stats_22 = pd.DataFrame(stats_22, columns=["Player Name", "Position","Age","Team","G","GS","MP","FG","FGA","FGP","threeP","threePA","threePP","twoP","twoPA","twoPP","eFGP","FT","FTA","FTP","ORB","DRB","TRB","AST","STL","BLK","TOV","PF","PTS"])
 #Printing to CSV
 stats_22.to_csv("player_stats_22.csv", index=False)
