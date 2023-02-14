@@ -166,7 +166,7 @@ print("Data saved to player_stats_95.csv")
 stats_95.head(20)
 
 # %%
-#Season of 1995
+#Season of 2022 Play by Play 
 # NBA season we will be analyzing
 year = 2022
 # URL page we will scraping (see image above)
@@ -185,12 +185,14 @@ headers = headers[1:]
 headers
 # avoid the first header row
 rows = soup.findAll('tr')[1:]
-player_stats_95 = [[td.getText() for td in rows[i].findAll('td')]
+pbp_stats_22 = [[td.getText() for td in rows[i].findAll('td')]
             for i in range(len(rows))]
 
 # %%
-stats_95 = pd.DataFrame(player_stats_95, columns=["Player", "Position","Age","Team","G","MP","PGP","SGP","SFP","PFP","CP","OnCourt","On-Off","BadPass","LostBall","Shoot","Off","Shoot","ffD","PGA","And1","Bkd"])
+pbp_stats_22 = pd.DataFrame(pbp_stats_22, columns=["Player", "Position","Age","Team","G","MP","PGP","SGP","SFP","PFP","CP","OnCourt","On-Off","BadPass","LostBall","Shoot","Off","Shoot","ffD","PGA","And1","Bkd"])
 #Printing to CSV
-stats_95.to_csv(product['data'], index=False)
+pbp_stats_22.to_csv(product['data'], index=False)
 print("Data saved to pbp_player_stats_2022.csv")
-stats_95.head(20)
+pbp_stats_22.head(20)
+
+# %%

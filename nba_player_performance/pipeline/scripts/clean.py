@@ -106,19 +106,21 @@ stats_95.head(20)
 #2022 season play-by-play stats
 import pandas as pd
 #2022 season
-pbpstats_22 = pd.read_csv(upstream['get']['data'])
+pbp_stats_22 = pd.read_csv(upstream['get']['data'])
 
 # %%
-pbpstats_22.isnull().sum()
+pbp_stats_22.isnull().sum()
 
 # %%
-pbpstats_22 = pbpstats_22.dropna()
+pbp_stats_22 = pbpstats_22.dropna()
 
 # %%
-pbpstats_22.isnull().sum()
+pbp_stats_22.isnull().sum()
 
 # %%
-pbpstats_22.head(20)
+pbp_stats_22.head(20)
 
 # %%
-stats_95.to_csv(product['data'], index=False)
+pbp_stats_22.to_csv(product['data'], index=False)
+
+# %%
