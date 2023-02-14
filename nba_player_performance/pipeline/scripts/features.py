@@ -51,3 +51,44 @@ import numpy as np
 from sklearn.feature_selection import SelectKBest,chi2
 
 # %%
+import pandas as pd
+import numpy as np
+from sklearn.linear_model import LinearRegression
+
+# Split the data into features (X) and target (y)
+X = pbp_stats_22.drop(['On-Off','Player','Position','Team'], axis=1)
+y = pbp_stats_22['On-Off']
+
+# Fit a linear regression model to the data
+lm = LinearRegression()
+lm.fit(X, y)
+
+# Check if the length of lm.coef_ is equal to the length of X.columns
+if len(lm.coef_) == len(X.columns):
+    # Create a pandas Series from lm.coef_ and X.columns
+    lm_feature = pd.Series(lm.coef_, index=X.columns)
+    
+    # Plot the top 10 largest coefficients
+    lm_feature.nlargest(10).plot(kind='barh')
+else:
+    print("The length of lm.coef_ does not match the length of X.columns.")
+
+# %%
+X = pbp_stats_22[['BadPass','LostBall','Shoot']]
+y = pbp_stats_22[['On-Off']]
+
+# %%
+from sklearn.linear_model import LinearRegression
+
+# %%
+lm = LinearRegression()
+lm.fit(X,y)
+
+# %%
+lm.coef_
+
+# %%
+lm_feature = pd.Series(lm.coef_, index=X.columns)
+lm_feature.nlargest(10).plot(kind='barh')
+
+# %%
