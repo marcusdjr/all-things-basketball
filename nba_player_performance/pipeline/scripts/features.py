@@ -37,9 +37,17 @@ product = None
 # %%
 import pandas as pd
 import numpy as np
-stats = pd.read_csv(upstream['clean']['data'])
+pbp_stats_22 = pd.read_csv(upstream['clean']['data'])
 
 # %%
-stats.head(20)
+pbp_stats_22.head(20)
+
+# %%
+#Feature Selection
+
+# %%
+import pandas as pd
+import numpy as np
+from sklearn.feature_selection import SelectKBest,chi2
 
 # %%
