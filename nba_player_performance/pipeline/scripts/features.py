@@ -56,7 +56,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 # Split the data into features (X) and target (y)
-X = pbp_stats_22.drop(['On-Off','Player','Position','Team'], axis=1)
+X = pbp_stats_22.drop(['On-Off','Player','Position','Team','PGP','SGP','SFP','PFP',], axis=1)
 y = pbp_stats_22['On-Off']
 
 # Fit a linear regression model to the data
@@ -68,7 +68,6 @@ if len(lm.coef_) == len(X.columns):
     # Create a pandas Series from lm.coef_ and X.columns
     lm_feature = pd.Series(lm.coef_, index=X.columns)
     
-    # Plot the top 10 largest coefficients
     lm_feature.nlargest(10).plot(kind='barh')
 else:
     print("The length of lm.coef_ does not match the length of X.columns.")

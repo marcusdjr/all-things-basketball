@@ -108,11 +108,16 @@ import pandas as pd
 #2022 season
 pbp_stats_22 = pd.read_csv(upstream['get']['data'])
 
+pbp_stats_22['PGP'] = pbp_stats_22['PGP'].str.replace('%', '').astype(float)
+pbp_stats_22['SGP'] = pbp_stats_22['SGP'].str.replace('%', '').astype(float)
+pbp_stats_22['SFP'] = pbp_stats_22['SFP'].str.replace('%', '').astype(float)
+pbp_stats_22['PFP'] = pbp_stats_22['PFP'].str.replace('%', '').astype(float)
+
 # %%
 pbp_stats_22.isnull().sum()
 
 # %%
-pbp_stats_22 = pbpstats_22.dropna()
+pbp_stats_22 = pbp_stats_22.dropna()
 
 # %%
 pbp_stats_22.isnull().sum()
@@ -122,5 +127,7 @@ pbp_stats_22.head(20)
 
 # %%
 pbp_stats_22.to_csv(product['data'], index=False)
+
+# %%
 
 # %%
